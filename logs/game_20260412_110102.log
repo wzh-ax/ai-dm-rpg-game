@@ -1,0 +1,154 @@
+2026-04-12 11:01:02 [INFO] [logging_system] [logging_system] === New game started: C:\Users\15901\.openclaw\workspace\ai-dm-rpg\logs\game_20260412_110102.log ===
+2026-04-12 11:01:02 [INFO] [logging_system] [game_master] === new_game() called, log file: C:\Users\15901\.openclaw\workspace\ai-dm-rpg\logs\game_20260412_110102.log ===
+2026-04-12 11:01:02 [INFO] [logging_system] [game_master] new_game() completed, game state reset
+2026-04-12 11:01:02 [INFO] [logging_system] [game_master] === Combat START: enemy=哥布林, role=怪物, trigger=aggressive ===
+2026-04-12 11:01:02 [INFO] [logging_system] [combat_system] === Combat START: combat_id=combat_42485bee, combatants_count=2, combatants=['冒险者', '影狼'] ===
+2026-04-12 11:01:02 [INFO] [logging_system] [game_master] === Combat START: enemy=哥布林, role=怪物, trigger=aggressive ===
+2026-04-12 11:01:02 [INFO] [logging_system] [combat_system] === Combat START: combat_id=combat_cf751dec, combatants_count=2, combatants=['冒险者', '影狼'] ===
+2026-04-12 11:02:46 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_response (npc=老王, player_input='你好...')
+2026-04-12 11:02:46 [INFO] [logging_system] [npc_agent] NPC dialogue completed: npc=老王, player_input='你好...', response='测试回复...'
+2026-04-12 11:02:46 [DEBUG] [logging_system] [game_master] LLM API call: _generate_combat_narrative (attacker=你, target=哥布林, action=attack, hit=True, damage=5, turn=1)
+2026-04-12 11:02:46 [DEBUG] [logging_system] [game_master] LLM API call: _generate_defend_narrative (enemy=哥布林, turn=1)
+2026-04-12 11:02:46 [DEBUG] [logging_system] [game_master] LLM API call: _generate_skill_narrative (skill=魔法攻击, target=哥布林, damage=8, turn=1)
+2026-04-12 11:02:46 [DEBUG] [logging_system] [game_master] LLM API call: _generate_item_narrative (item=治疗药水, target=你, heal=10, turn=1)
+2026-04-12 11:02:46 [DEBUG] [logging_system] [game_master] LLM API call: _generate_flee_fail_narrative (enemy=哥布林, turn=1)
+2026-04-12 11:02:46 [DEBUG] [logging_system] [game_master] LLM API call: _generate_combat_recovery_narrative (winner=players, reason=敌人被击败)
+2026-04-12 11:02:46 [DEBUG] [logging_system] [game_master] LLM API call: _generate_rewards_narrative (enemy=哥布林, xp=25, gold=10, leveled_up=False)
+2026-04-12 11:02:46 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_response (npc=老王, player_input='你好...')
+2026-04-12 11:02:46 [INFO] [logging_system] [npc_agent] NPC dialogue completed: npc=老王, player_input='你好...', response='老王笑着说：'哎呀，欢迎欢迎！来来来，坐下喝一杯？'...'
+2026-04-12 11:02:46 [INFO] [logging_system] [game_master] Scene transition: 未知 → tavern
+2026-04-12 11:02:46 [DEBUG] [logging_system] [game_master] GameMaster: generating/fetching scene - type=tavern
+2026-04-12 11:02:46 [INFO] [logging_system] [scene_agent] === Scene generation START: scene_type=tavern, requirements=玩家正在寻找一个tavern... ===
+2026-04-12 11:02:46 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_differentiation (scene_type=tavern)
+2026-04-12 11:02:46 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_synopsis (core_concept=Test tavern...)
+2026-04-12 11:02:46 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_detail (scene_type=tavern)
+2026-04-12 11:02:46 [WARNING] [logging_system] [scene_agent] LLM API call failed for generate_detail: unknown - 未知错误: MockLLM.generate_detail() got an unexpected keyword argument 'core_concept'
+2026-04-12 11:02:46 [WARNING] [logging_system] [scene_agent] ⚠️ 当前为简化叙事模式 (Fallback tier=light)
+2026-04-12 11:02:46 [INFO] [logging_system] [scene_agent] === Fallback scene generated (tier=light): scene_id=tavern_9bec26a1 ===
+2026-04-12 11:02:47 [INFO] [logging_system] [game_master] Scene transition: 未知 → tavern
+2026-04-12 11:02:47 [DEBUG] [logging_system] [game_master] GameMaster: generating/fetching scene - type=tavern
+2026-04-12 11:02:47 [INFO] [logging_system] [scene_agent] === Scene generation START: scene_type=tavern, requirements=玩家正在寻找一个tavern... ===
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_differentiation (scene_type=tavern)
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_synopsis (core_concept=Test tavern...)
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_detail (scene_type=tavern)
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] LLM API call failed for generate_detail: unknown - 未知错误: MockLLM.generate_detail() got an unexpected keyword argument 'core_concept'
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] ⚠️ 当前为简化叙事模式 (Fallback tier=light)
+2026-04-12 11:02:47 [INFO] [logging_system] [scene_agent] === Fallback scene generated (tier=light): scene_id=tavern_94053831 ===
+2026-04-12 11:02:47 [INFO] [logging_system] [game_master] Scene transition: 未知 → tavern
+2026-04-12 11:02:47 [DEBUG] [logging_system] [game_master] GameMaster: generating/fetching scene - type=tavern
+2026-04-12 11:02:47 [INFO] [logging_system] [scene_agent] === Scene generation START: scene_type=forest, requirements=神秘冒险... ===
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_differentiation (scene_type=forest)
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_synopsis (core_concept=古老森林...)
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_detail (scene_type=forest)
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] LLM API call failed for generate_detail: unknown - 未知错误: TestSceneAgent.test_generate_scene_with_mock_llm.<locals>.mock_detail() got an unexpected keyword argument 'core_concept'
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] ⚠️ 当前为简化叙事模式 (Fallback tier=light)
+2026-04-12 11:02:47 [INFO] [logging_system] [scene_agent] === Fallback scene generated (tier=light): scene_id=forest_e09e9205 ===
+2026-04-12 11:02:47 [INFO] [logging_system] [scene_agent] === Scene generation START: scene_type=森林, requirements=测试需求1... ===
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_differentiation (scene_type=森林)
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_synopsis (core_concept=古老密林
+藤蔓从高处垂落如帘，昏暗的光线在腐叶气息中穿透进来...)
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_detail (scene_type=森林)
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] LLM API call failed for generate_detail: unknown - 未知错误: TestSceneDifferentiation.test_same_forest_multiple_generations.<locals>.mock_detail() got an unexpected keyword argument 'existing_tags'
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] ⚠️ 当前为简化叙事模式 (Fallback tier=light)
+2026-04-12 11:02:47 [INFO] [logging_system] [scene_agent] === Fallback scene generated (tier=light): scene_id=森林_a333934f ===
+2026-04-12 11:02:47 [INFO] [logging_system] [scene_agent] === Scene generation START: scene_type=森林, requirements=测试需求2... ===
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_differentiation (scene_type=森林)
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_synopsis (core_concept=阳光斑驳的林间空地
+阳光透过树冠的缝隙洒下斑驳的光点，空气中...)
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_detail (scene_type=森林)
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] LLM API call failed for generate_detail: unknown - 未知错误: TestSceneDifferentiation.test_same_forest_multiple_generations.<locals>.mock_detail() got an unexpected keyword argument 'existing_tags'
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] ⚠️ 当前为简化叙事模式 (Fallback tier=light)
+2026-04-12 11:02:47 [INFO] [logging_system] [scene_agent] === Fallback scene generated (tier=light): scene_id=森林_569568fa ===
+2026-04-12 11:02:47 [INFO] [logging_system] [scene_agent] === Scene generation START: scene_type=森林, requirements=测试需求3... ===
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_differentiation (scene_type=森林)
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_synopsis (core_concept=迷雾笼罩的森林深处
+浓雾将一切轮廓都模糊成阴影，潮湿的冷意渗...)
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_detail (scene_type=森林)
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] LLM API call failed for generate_detail: unknown - 未知错误: TestSceneDifferentiation.test_same_forest_multiple_generations.<locals>.mock_detail() got an unexpected keyword argument 'existing_tags'
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] ⚠️ 当前为简化叙事模式 (Fallback tier=light)
+2026-04-12 11:02:47 [INFO] [logging_system] [scene_agent] === Fallback scene generated (tier=light): scene_id=森林_e47f535c ===
+2026-04-12 11:02:47 [INFO] [logging_system] [scene_agent] === Scene generation START: scene_type=酒馆, requirements=测试... ===
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_differentiation (scene_type=酒馆)
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_synopsis (core_concept=喧嚣大厅
+铜制酒杯在火把下闪烁，空气中麦酒和烤肉的香气混杂，...)
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_detail (scene_type=酒馆)
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] LLM API call failed for generate_detail: unknown - 未知错误: TestSceneDifferentiation.test_different_scene_types_have_unique_features.<locals>.mock_detail() got an unexpected keyword argument 'existing_tags'
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] ⚠️ 当前为简化叙事模式 (Fallback tier=light)
+2026-04-12 11:02:47 [INFO] [logging_system] [scene_agent] === Fallback scene generated (tier=light): scene_id=酒馆_c53d86e6 ===
+2026-04-12 11:02:47 [INFO] [logging_system] [scene_agent] === Scene generation START: scene_type=森林, requirements=测试... ===
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_differentiation (scene_type=森林)
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_synopsis (core_concept=幽暗密林
+藤蔓从高处垂落如帘，昏暗的光线在腐叶气息中穿透进来...)
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_detail (scene_type=森林)
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] LLM API call failed for generate_detail: unknown - 未知错误: TestSceneDifferentiation.test_different_scene_types_have_unique_features.<locals>.mock_detail() got an unexpected keyword argument 'existing_tags'
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] ⚠️ 当前为简化叙事模式 (Fallback tier=light)
+2026-04-12 11:02:47 [INFO] [logging_system] [scene_agent] === Fallback scene generated (tier=light): scene_id=森林_b1625a1a ===
+2026-04-12 11:02:47 [INFO] [logging_system] [scene_agent] === Scene generation START: scene_type=洞穴, requirements=测试... ===
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_differentiation (scene_type=洞穴)
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_synopsis (core_concept=磷光溶洞
+水滴从钟乳石滴落，磷光在洞壁上投下蓝绿色的诡异光影...)
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_detail (scene_type=洞穴)
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] LLM API call failed for generate_detail: unknown - 未知错误: TestSceneDifferentiation.test_different_scene_types_have_unique_features.<locals>.mock_detail() got an unexpected keyword argument 'existing_tags'
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] ⚠️ 当前为简化叙事模式 (Fallback tier=light)
+2026-04-12 11:02:47 [INFO] [logging_system] [scene_agent] === Fallback scene generated (tier=light): scene_id=洞穴_11b58f27 ===
+2026-04-12 11:02:47 [INFO] [logging_system] [scene_agent] === Scene generation START: scene_type=酒馆, requirements=测试... ===
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_differentiation (scene_type=酒馆)
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_synopsis (core_concept=酒馆核心概念...)
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_detail (scene_type=酒馆)
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] LLM API call failed for generate_detail: unknown - 未知错误: TestSceneDifferentiation.test_random_events_are_injected.<locals>.mock_detail() got an unexpected keyword argument 'existing_tags'
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] ⚠️ 当前为简化叙事模式 (Fallback tier=light)
+2026-04-12 11:02:47 [INFO] [logging_system] [scene_agent] === Fallback scene generated (tier=light): scene_id=酒馆_419560d4 ===
+2026-04-12 11:02:47 [INFO] [logging_system] [scene_agent] === Scene generation START: scene_type=酒馆, requirements=测试... ===
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_differentiation (scene_type=酒馆)
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_synopsis (core_concept=独特酒馆
+LLM生成的核心描述，包含丰富的感官细节。
+独特,...)
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_detail (scene_type=酒馆)
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] LLM API call failed for generate_detail: unknown - 未知错误: TestSceneDifferentiation.test_opening_template_not_applied_to_llm_description.<locals>.mock_detail() got an unexpected keyword argument 'existing_tags'
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] ⚠️ 当前为简化叙事模式 (Fallback tier=light)
+2026-04-12 11:02:47 [INFO] [logging_system] [scene_agent] === Fallback scene generated (tier=light): scene_id=酒馆_a3ebdc5e ===
+2026-04-12 11:02:47 [INFO] [logging_system] [scene_agent] === Scene generation START: scene_type=酒馆, requirements=测试... ===
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_differentiation (scene_type=酒馆)
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] LLM API call failed for generate_differentiation: Exception
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_synopsis (core_concept=Unique 酒馆 location: 测试...)
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] LLM API call failed for generate_synopsis: Exception
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_detail (scene_type=酒馆)
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] LLM API call failed for generate_detail: unknown - 未知错误: LLM不可用
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] ⚠️ 当前为简化叙事模式 (Fallback tier=light)
+2026-04-12 11:02:47 [INFO] [logging_system] [scene_agent] === Fallback scene generated (tier=light): scene_id=酒馆_dcf0a01c ===
+2026-04-12 11:02:47 [INFO] [logging_system] [scene_agent] === Scene generation START: scene_type=酒馆, requirements=测试... ===
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_differentiation (scene_type=酒馆)
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] LLM API call failed for generate_differentiation: Exception
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_synopsis (core_concept=Unique 酒馆 location: 测试...)
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] LLM API call failed for generate_synopsis: Exception
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_detail (scene_type=酒馆)
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] LLM API call failed for generate_detail: unknown - 未知错误: LLM不可用
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] ⚠️ 当前为简化叙事模式 (Fallback tier=light)
+2026-04-12 11:02:47 [INFO] [logging_system] [scene_agent] === Fallback scene generated (tier=light): scene_id=酒馆_1ac81cf9 ===
+2026-04-12 11:02:47 [INFO] [logging_system] [scene_agent] === Scene generation START: scene_type=酒馆, requirements=测试... ===
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_differentiation (scene_type=酒馆)
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] LLM API call failed for generate_differentiation: Exception
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_synopsis (core_concept=Unique 酒馆 location: 测试...)
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] LLM API call failed for generate_synopsis: Exception
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_detail (scene_type=酒馆)
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] LLM API call failed for generate_detail: unknown - 未知错误: LLM不可用
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] ⚠️ 当前为简化叙事模式 (Fallback tier=light)
+2026-04-12 11:02:47 [INFO] [logging_system] [scene_agent] === Fallback scene generated (tier=light): scene_id=酒馆_3f5af145 ===
+2026-04-12 11:02:47 [INFO] [logging_system] [scene_agent] === Scene generation START: scene_type=酒馆, requirements=测试... ===
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_differentiation (scene_type=酒馆)
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] LLM API call failed for generate_differentiation: Exception
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_synopsis (core_concept=Unique 酒馆 location: 测试...)
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] LLM API call failed for generate_synopsis: Exception
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_detail (scene_type=酒馆)
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] LLM API call failed for generate_detail: unknown - 未知错误: LLM不可用
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] ⚠️ 当前为简化叙事模式 (Fallback tier=light)
+2026-04-12 11:02:47 [INFO] [logging_system] [scene_agent] === Fallback scene generated (tier=light): scene_id=酒馆_6761e053 ===
+2026-04-12 11:02:47 [INFO] [logging_system] [scene_agent] === Scene generation START: scene_type=酒馆, requirements=测试... ===
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_differentiation (scene_type=酒馆)
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] LLM API call failed for generate_differentiation: Exception
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_synopsis (core_concept=Unique 酒馆 location: 测试...)
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] LLM API call failed for generate_synopsis: Exception
+2026-04-12 11:02:47 [DEBUG] [logging_system] [scene_agent] LLM API call: generate_detail (scene_type=酒馆)
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] LLM API call failed for generate_detail: unknown - 未知错误: LLM不可用
+2026-04-12 11:02:47 [WARNING] [logging_system] [scene_agent] ⚠️ 当前为简化叙事模式 (Fallback tier=light)
+2026-04-12 11:02:47 [INFO] [logging_system] [scene_agent] === Fallback scene generated (tier=light): scene_id=酒馆_ed91519b ===

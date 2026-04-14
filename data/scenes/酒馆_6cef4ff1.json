@@ -1,0 +1,18 @@
+{
+  "id": "酒馆_6cef4ff1",
+  "type": "酒馆",
+  "core_concept": "Unique 酒馆 location: 玩家正在寻找一个酒馆",
+  "tags": [
+    "酒馆"
+  ],
+  "unique_features": [],
+  "danger_level": "mid",
+  "atmosphere": "mysterious",
+  "synopsis": "一个酒馆类型的地点:玩家正在寻找一个酒馆",
+  "description": "这里是一个酒馆类型的地点,玩家正在寻找一个酒馆",
+  "npcs": [],
+  "events": [],
+  "objects": [],
+  "random_events": [],
+  "created_at": 1649854.265
+}

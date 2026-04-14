@@ -1,0 +1,26 @@
+{
+  "id": "酒馆_e08d5acc",
+  "type": "酒馆",
+  "core_concept": "Unique 酒馆 location: 玩家正在寻找一个酒馆",
+  "tags": [
+    "酒馆"
+  ],
+  "unique_features": [],
+  "danger_level": "mid",
+  "atmosphere": "mysterious",
+  "synopsis": "一个酒馆类型的地点:玩家正在寻找一个酒馆",
+  "description": "这里是一个酒馆类型的地点,玩家正在寻找一个酒馆",
+  "npcs": [
+    {
+      "name": "流浪歌手",
+      "role": "bard",
+      "personality": "热情开朗，喜欢讲故事",
+      "dialogue_style": "吟游诗人般",
+      "id": "npc_9a4a2a05"
+    }
+  ],
+  "events": [],
+  "objects": [],
+  "random_events": [],
+  "created_at": 1651830.875
+}

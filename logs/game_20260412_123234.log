@@ -1,0 +1,25 @@
+2026-04-12 12:32:34 [INFO] [logging_system] [logging_system] === New game started: C:\Users\15901\.openclaw\workspace\ai-dm-rpg\logs\game_20260412_123234.log ===
+2026-04-12 12:32:34 [INFO] [logging_system] [game_master] === new_game() called, log file: C:\Users\15901\.openclaw\workspace\ai-dm-rpg\logs\game_20260412_123234.log ===
+2026-04-12 12:32:34 [INFO] [logging_system] [game_master] new_game() completed, game state reset
+2026-04-12 12:32:34 [INFO] [logging_system] [game_master] === Combat START: enemy=哥布林, role=怪物, trigger=aggressive ===
+2026-04-12 12:32:34 [INFO] [logging_system] [combat_system] === Combat START: combat_id=combat_374029a0, combatants_count=2, combatants=['冒险者', '影狼'] ===
+2026-04-12 12:32:34 [INFO] [logging_system] [game_master] === Combat START: enemy=哥布林, role=怪物, trigger=aggressive ===
+2026-04-12 12:32:34 [INFO] [logging_system] [combat_system] === Combat START: combat_id=combat_44ccba19, combatants_count=2, combatants=['冒险者', '影狼'] ===
+2026-04-12 12:32:34 [INFO] [logging_system] [combat_system] === Combat START: combat_id=test_combat_1, combatants_count=2, combatants=['战士', '哥布林'] ===
+2026-04-12 12:32:34 [INFO] [logging_system] [combat_system] === Combat END: combat_id=test_combat_1, winner=players, reason= ===
+2026-04-12 12:32:34 [INFO] [logging_system] [combat_system] === Combat START: combat_id=test_combat_2, combatants_count=2, combatants=['战士', '哥布林'] ===
+2026-04-12 12:32:34 [INFO] [logging_system] [combat_system] === Combat END: combat_id=test_combat_2, winner=players, reason= ===
+2026-04-12 12:32:34 [INFO] [logging_system] [combat_system] === Combat START: combat_id=test_combat_3, combatants_count=2, combatants=['战士', '哥布林'] ===
+2026-04-12 12:32:34 [DEBUG] [logging_system] [combat_system] Combat action: combatant=战士, action_type=attack
+2026-04-12 12:32:34 [INFO] [logging_system] [combat_system] === Combat END: combat_id=test_combat_3, winner=players, reason= ===
+2026-04-12 12:32:34 [INFO] [logging_system] [combat_system] === Combat START: combat_id=test_combat_4, combatants_count=2, combatants=['战士', '哥布林'] ===
+2026-04-12 12:32:34 [DEBUG] [logging_system] [combat_system] Combat action: combatant=战士, action_type=defend
+2026-04-12 12:32:34 [INFO] [logging_system] [combat_system] === Combat END: combat_id=test_combat_4, winner=players, reason= ===
+2026-04-12 12:32:34 [INFO] [logging_system] [combat_system] === Combat START: combat_id=test_combat_5, combatants_count=2, combatants=['战士', '哥布林'] ===
+2026-04-12 12:32:34 [INFO] [logging_system] [combat_system] === Combat END: combat_id=test_combat_5, winner=players, reason=测试结束 ===
+2026-04-12 12:32:34 [INFO] [logging_system] [combat_system] === Combat START: combat_id=dragon_fight, combatants_count=2, combatants=['勇者', '恶龙'] ===
+2026-04-12 12:32:34 [DEBUG] [logging_system] [combat_system] Combat action: combatant=勇者, action_type=attack
+2026-04-12 12:32:34 [DEBUG] [logging_system] [combat_system] Combat action: combatant=恶龙, action_type=attack
+2026-04-12 12:32:34 [INFO] [logging_system] [combat_system] === Combat END: combat_id=dragon_fight, winner=players, reason= ===
+2026-04-12 12:32:34 [INFO] [logging_system] [combat_system] === Combat START: combat_id=order_test, combatants_count=3, combatants=['快刀手', '重甲兵', '怪物'] ===
+2026-04-12 12:32:34 [INFO] [logging_system] [combat_system] === Combat END: combat_id=order_test, winner=players, reason= ===

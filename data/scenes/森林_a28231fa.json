@@ -1,0 +1,26 @@
+{
+  "id": "森林_a28231fa",
+  "type": "森林",
+  "core_concept": "Unique 森林 location: 玩家正在寻找一个森林",
+  "tags": [
+    "森林"
+  ],
+  "unique_features": [],
+  "danger_level": "mid",
+  "atmosphere": "mysterious",
+  "synopsis": "一个森林类型的地点:玩家正在寻找一个森林",
+  "description": "这里是一个森林类型的地点,玩家正在寻找一个森林",
+  "npcs": [
+    {
+      "name": "年迈猎人",
+      "role": "hunter",
+      "personality": "沉稳可靠，经验丰富",
+      "dialogue_style": "简洁有力",
+      "id": "npc_bbad9a4b"
+    }
+  ],
+  "events": [],
+  "objects": [],
+  "random_events": [],
+  "created_at": 1651854.093
+}

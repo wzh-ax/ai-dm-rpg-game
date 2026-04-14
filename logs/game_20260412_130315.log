@@ -1,0 +1,8 @@
+2026-04-12 13:03:15 [INFO] [logging_system] [logging_system] === New game started: C:\Users\15901\.openclaw\workspace\ai-dm-rpg\logs\game_20260412_130315.log ===
+2026-04-12 13:03:15 [INFO] [logging_system] [game_master] === new_game() called, log file: C:\Users\15901\.openclaw\workspace\ai-dm-rpg\logs\game_20260412_130315.log ===
+2026-04-12 13:03:15 [INFO] [logging_system] [game_master] new_game() completed, game state reset
+2026-04-12 13:03:15 [INFO] [logging_system] [game_master] === Combat START: enemy=哥布林, role=怪物, trigger=aggressive ===
+2026-04-12 13:03:15 [INFO] [logging_system] [combat_system] === Combat START: combat_id=combat_ebf6cb10, combatants_count=2, combatants=['冒险者', '哥布林'] ===
+2026-04-12 13:03:16 [INFO] [logging_system] [game_master] === Combat START: enemy=哥布林, role=怪物, trigger=aggressive ===
+2026-04-12 13:03:16 [INFO] [logging_system] [combat_system] === Combat START: combat_id=combat_d8b47b8d, combatants_count=2, combatants=['冒险者', '哥布林'] ===
+2026-04-12 13:03:16 [INFO] [logging_system] [game_master] NPC interaction triggered: player_input='talk...'

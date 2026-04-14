@@ -1,0 +1,19 @@
+{
+  "id": "npc_3c251295",
+  "name": "王大婶",
+  "role": "villager",
+  "disposition": "neutral",
+  "core_concept": "战后老兵，在篝火旁沉默守望，用沉默的泪光守护村庄最后的记忆",
+  "tags": [
+    "villager",
+    "战后老兵，在篝火旁沉"
+  ],
+  "appearance": "一个典型的villager",
+  "personality": "战后老兵，在篝火旁沉默守望，用沉默的泪光守护村庄最后的记忆",
+  "speech_style": "普通的说话方式",
+  "secrets": [],
+  "knowledge": [],
+  "quests": [],
+  "dialogue": "火光映着老人的脸，眼角的皱纹像干涸的河床。篝火噼啪作响，老人沉默地拨着火堆，半晌才开口：“又来一个年轻后生……坐吧，暖和暖和。”",
+  "created_at": 88450.312
+}

@@ -1,0 +1,19 @@
+{
+  "id": "npc_2871d3fd",
+  "name": "阿贵",
+  "role": "merchant",
+  "disposition": "neutral",
+  "core_concept": "merchant with unique trait: 场景中的对话NPC",
+  "tags": [
+    "merchant",
+    "merchant w"
+  ],
+  "appearance": "一个典型的merchant",
+  "personality": "merchant with unique trait: 场景中的对话NPC",
+  "speech_style": "普通的说话方式",
+  "secrets": [],
+  "knowledge": [],
+  "quests": [],
+  "dialogue": "你好,我是阿贵。",
+  "created_at": 1651830.218
+}

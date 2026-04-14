@@ -1,0 +1,33 @@
+{
+  "id": "酒馆_a0400d49",
+  "type": "酒馆",
+  "core_concept": "Unique 酒馆 location: 玩家正在寻找一个酒馆",
+  "tags": [
+    "酒馆"
+  ],
+  "unique_features": [],
+  "danger_level": "mid",
+  "atmosphere": "mysterious",
+  "synopsis": "一个酒馆类型的地点:玩家正在寻找一个酒馆",
+  "description": "这里是一个酒馆类型的地点,玩家正在寻找一个酒馆",
+  "npcs": [
+    {
+      "name": "酒馆老板",
+      "role": "merchant",
+      "personality": "精明世故，善于经商",
+      "dialogue_style": "圆滑老练",
+      "id": "npc_35ab8156"
+    },
+    {
+      "name": "流浪歌手",
+      "role": "bard",
+      "personality": "热情开朗，喜欢讲故事",
+      "dialogue_style": "吟游诗人般",
+      "id": "npc_90f7c9c0"
+    }
+  ],
+  "events": [],
+  "objects": [],
+  "random_events": [],
+  "created_at": 1651868.515
+}

@@ -1,0 +1,33 @@
+{
+  "id": "森林_b7a056e3",
+  "type": "森林",
+  "core_concept": "Unique 森林 location: 玩家正在寻找一个森林",
+  "tags": [
+    "森林"
+  ],
+  "unique_features": [],
+  "danger_level": "mid",
+  "atmosphere": "mysterious",
+  "synopsis": "一个森林类型的地点:玩家正在寻找一个森林",
+  "description": "这里是一个森林类型的地点,玩家正在寻找一个森林",
+  "npcs": [
+    {
+      "name": "迷路的旅人",
+      "role": "traveler",
+      "personality": "焦虑不安，渴望帮助",
+      "dialogue_style": "急促紧张",
+      "id": "npc_89c93afa"
+    },
+    {
+      "name": "森林精灵",
+      "role": "elf",
+      "personality": "高傲优雅，熟悉自然",
+      "dialogue_style": "优雅缓慢",
+      "id": "npc_db28d149"
+    }
+  ],
+  "events": [],
+  "objects": [],
+  "random_events": [],
+  "created_at": 1651831.937
+}

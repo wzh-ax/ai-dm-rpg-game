@@ -1,0 +1,18 @@
+{
+  "id": "森林_b1f0180d",
+  "type": "森林",
+  "core_concept": "Unique 森林 location: 玩家正在寻找一个森林",
+  "tags": [
+    "森林"
+  ],
+  "unique_features": [],
+  "danger_level": "mid",
+  "atmosphere": "mysterious",
+  "synopsis": "一个森林类型的地点:玩家正在寻找一个森林",
+  "description": "这里是一个森林类型的地点,玩家正在寻找一个森林",
+  "npcs": [],
+  "events": [],
+  "objects": [],
+  "random_events": [],
+  "created_at": 1649856.515
+}
