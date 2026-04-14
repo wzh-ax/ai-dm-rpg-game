@@ -6,8 +6,8 @@
 
 ## 如何开始
 
-```bash
-cd C:\Users\15901\.openclaw\workspace\ai-dm-rpg
+```powershell
+cd D:\ai-dm-rpg-game
 python interactive_master.py
 ```
 
