@@ -895,6 +895,66 @@ class GameMaster:
         return await self._execute_flee(turn)
 
     # --------------------------------------------------------------------------
+    # 随机小遭遇（D001-③）
+    # --------------------------------------------------------------------------
+
+    # 危险区域列表（会触发随机遭遇）
+    _DANGEROUS_LOCATIONS = {"森林", "幽影森林", "树林", "洞穴", "山洞", "平原", "荒野", "郊外"}
+
+    # 随机小遭遇敌人池（15%概率触发）
+    _RANDOM_ENCOUNTER_POOL = [
+        ("野狗", "一只饥饿的野狗从灌木丛中窜出，虎视眈眈地盯着你！"),
+        ("小偷", "一个鬼鬼祟祟的身影在暗处一闪而过，似乎在寻找下手的机会..."),
+        ("蝙蝠群", "头顶传来一阵刺耳的尖叫，一群蝙蝠受惊飞起，向你扑来！"),
+        ("野猪", "一头凶猛的野猪突然从树林中冲出，獠牙闪烁着危险的光芒！"),
+        ("毒蛇", "草丛中传来嘶嘶声——一条毒蛇盘踞在前方，吐着信子警告你退后！"),
+        ("狼", "远处传来狼嚎，不一会儿，两只狼从阴影中现身，将你包围..."),
+    ]
+
+    async def _try_random_encounter(self, turn: int) -> str | None:
+        """
+        D001-③: 每回合 15% 概率在危险区域触发随机小遭遇。
+
+        规则：
+        - 仅在探索模式且非战斗状态下触发
+        - 仅在危险区域触发（酒馆/村庄等安全区不触发）
+        - 每回合最多触发一次
+        - 15% 概率
+
+        Returns:
+            随机遭遇叙事文本，或 None（未触发）
+        """
+        location = self.game_state.get("location", "")
+
+        # 仅危险区域触发
+        if location not in self._DANGEROUS_LOCATIONS:
+            return None
+
+        # 15% 概率
+        if random.random() > 0.15:
+            return None
+
+        # 随机选择小遭遇
+        enemy_name, encounter_desc = random.choice(self._RANDOM_ENCOUNTER_POOL)
+
+        logger.info(f"game_master", f"Random encounter triggered: {enemy_name} at {location}")
+
+        # 构建遭遇叙事
+        narrative = f"\n⚠️ 【意外遭遇】\n{encounter_desc}"
+
+        # 触发战斗
+        enemy_info = {
+            "trigger": "ambush",
+            "enemy_data": {"name": enemy_name, "role": "怪物"},
+            "enemy_id": f"enemy_random_{enemy_name}",
+        }
+
+        combat_narrative = await self._enter_combat(f"遭遇{enemy_name}", enemy_info)
+        narrative += combat_narrative
+
+        return narrative
+
+    # --------------------------------------------------------------------------
     # 主输入处理
     # --------------------------------------------------------------------------
 
@@ -1356,6 +1416,13 @@ class GameMaster:
         if combat_trigger:
             combat_narrative = await self._enter_combat(player_text, combat_trigger)
             narrative_parts.append(combat_narrative)
+
+        # 4.5 D001-③: 每回合 15% 概率触发随机小遭遇（危险区域）
+        # 仅在探索模式、非战斗状态、危险区域中触发
+        if self.mode == GameMode.EXPLORATION and not combat_trigger:
+            random_encounter_narrative = await self._try_random_encounter(turn)
+            if random_encounter_narrative:
+                narrative_parts.append(random_encounter_narrative)
 
         # 5. 生成主叙事
         main_narrative = await self._generate_main_narrative(player_text, turn)
