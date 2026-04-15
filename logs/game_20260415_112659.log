@@ -1,0 +1,77 @@
+2026-04-15 11:26:59 [INFO] [logging_system] [logging_system] === New game started: D:\ai-dm-rpg-game\logs\game_20260415_112659.log ===
+2026-04-15 11:26:59 [INFO] [logging_system] [game_master] === new_game() called, log file: D:\ai-dm-rpg-game\logs\game_20260415_112659.log ===
+2026-04-15 11:26:59 [INFO] [logging_system] [game_master] new_game() completed, game state reset
+2026-04-15 11:26:59 [INFO] [logging_system] [game_master] === Combat START: enemy=哥布林, role=怪物, trigger=aggressive ===
+2026-04-15 11:26:59 [INFO] [logging_system] [combat_system] === Combat START: combat_id=combat_c5035b67, combatants_count=2, combatants=['冒险者', '哥布林'] ===
+2026-04-15 11:26:59 [INFO] [logging_system] [game_master] === Combat START: enemy=哥布林, role=怪物, trigger=aggressive ===
+2026-04-15 11:26:59 [INFO] [logging_system] [combat_system] === Combat START: combat_id=combat_61390282, combatants_count=2, combatants=['冒险者', '哥布林'] ===
+2026-04-15 11:27:00 [INFO] [logging_system] [game_master] NPC interaction triggered: player_input='talk...'
+2026-04-15 11:27:01 [INFO] [logging_system] [game_master] Scene transition: 未知 → 酒馆
+2026-04-15 11:27:01 [DEBUG] [logging_system] [game_master] GameMaster: generating/fetching scene - type=酒馆
+2026-04-15 11:27:01 [INFO] [logging_system] [game_master] Scene transition: 未知 → 酒馆
+2026-04-15 11:27:01 [DEBUG] [logging_system] [game_master] GameMaster: generating/fetching scene - type=酒馆
+2026-04-15 11:27:01 [INFO] [logging_system] [game_master] Scene transition: 未知 → 酒馆
+2026-04-15 11:27:01 [DEBUG] [logging_system] [game_master] GameMaster: generating/fetching scene - type=酒馆
+2026-04-15 11:27:01 [INFO] [logging_system] [game_master] Scene transition: 未知 → 酒馆
+2026-04-15 11:27:01 [DEBUG] [logging_system] [game_master] GameMaster: generating/fetching scene - type=酒馆
+2026-04-15 11:27:01 [INFO] [logging_system] [game_master] Scene transition: 未知 → 酒馆
+2026-04-15 11:27:01 [DEBUG] [logging_system] [game_master] GameMaster: generating/fetching scene - type=酒馆
+2026-04-15 11:27:01 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_response (npc=测试NPC, player_input='玩家输入0...')
+2026-04-15 11:27:01 [INFO] [logging_system] [npc_agent] NPC dialogue completed: npc=测试NPC, player_input='玩家输入0...', response='这是一个测试回复。...'
+2026-04-15 11:27:01 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_response (npc=测试NPC, player_input='玩家输入1...')
+2026-04-15 11:27:01 [INFO] [logging_system] [npc_agent] NPC dialogue completed: npc=测试NPC, player_input='玩家输入1...', response='这是一个测试回复。...'
+2026-04-15 11:27:01 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_response (npc=测试NPC, player_input='玩家输入2...')
+2026-04-15 11:27:01 [INFO] [logging_system] [npc_agent] NPC dialogue completed: npc=测试NPC, player_input='玩家输入2...', response='这是一个测试回复。...'
+2026-04-15 11:27:01 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_response (npc=测试NPC, player_input='玩家输入3...')
+2026-04-15 11:27:01 [INFO] [logging_system] [npc_agent] NPC dialogue completed: npc=测试NPC, player_input='玩家输入3...', response='这是一个测试回复。...'
+2026-04-15 11:27:01 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_response (npc=测试NPC, player_input='玩家输入4...')
+2026-04-15 11:27:01 [INFO] [logging_system] [npc_agent] NPC dialogue completed: npc=测试NPC, player_input='玩家输入4...', response='这是一个测试回复。...'
+2026-04-15 11:27:01 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_response (npc=测试NPC, player_input='玩家输入5...')
+2026-04-15 11:27:01 [INFO] [logging_system] [npc_agent] NPC dialogue completed: npc=测试NPC, player_input='玩家输入5...', response='这是一个测试回复。...'
+2026-04-15 11:27:01 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_response (npc=测试NPC, player_input='玩家输入6...')
+2026-04-15 11:27:01 [INFO] [logging_system] [npc_agent] NPC dialogue completed: npc=测试NPC, player_input='玩家输入6...', response='这是一个测试回复。...'
+2026-04-15 11:27:01 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_response (npc=测试NPC, player_input='玩家输入7...')
+2026-04-15 11:27:01 [INFO] [logging_system] [npc_agent] NPC dialogue completed: npc=测试NPC, player_input='玩家输入7...', response='这是一个测试回复。...'
+2026-04-15 11:27:01 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_response (npc=测试NPC, player_input='玩家输入8...')
+2026-04-15 11:27:01 [INFO] [logging_system] [npc_agent] NPC dialogue completed: npc=测试NPC, player_input='玩家输入8...', response='这是一个测试回复。...'
+2026-04-15 11:27:01 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_response (npc=测试NPC, player_input='玩家输入9...')
+2026-04-15 11:27:01 [INFO] [logging_system] [npc_agent] NPC dialogue completed: npc=测试NPC, player_input='玩家输入9...', response='这是一个测试回复。...'
+2026-04-15 11:27:01 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_response (npc=测试NPC, player_input='玩家输入10...')
+2026-04-15 11:27:01 [INFO] [logging_system] [npc_agent] NPC dialogue completed: npc=测试NPC, player_input='玩家输入10...', response='这是一个测试回复。...'
+2026-04-15 11:27:01 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_response (npc=测试NPC, player_input='玩家输入11...')
+2026-04-15 11:27:01 [INFO] [logging_system] [npc_agent] NPC dialogue completed: npc=测试NPC, player_input='玩家输入11...', response='这是一个测试回复。...'
+2026-04-15 11:27:01 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_response (npc=测试NPC, player_input='玩家输入12...')
+2026-04-15 11:27:01 [INFO] [logging_system] [npc_agent] NPC dialogue completed: npc=测试NPC, player_input='玩家输入12...', response='这是一个测试回复。...'
+2026-04-15 11:27:01 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_response (npc=测试NPC, player_input='玩家输入13...')
+2026-04-15 11:27:01 [INFO] [logging_system] [npc_agent] NPC dialogue completed: npc=测试NPC, player_input='玩家输入13...', response='这是一个测试回复。...'
+2026-04-15 11:27:01 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_response (npc=测试NPC, player_input='玩家输入14...')
+2026-04-15 11:27:01 [INFO] [logging_system] [npc_agent] NPC dialogue completed: npc=测试NPC, player_input='玩家输入14...', response='这是一个测试回复。...'
+2026-04-15 11:27:01 [INFO] [logging_system] [npc_agent] === NPC generation START: role=merchant, requirements=贪婪的商人... ===
+2026-04-15 11:27:01 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_differentiation (role=merchant)
+2026-04-15 11:27:01 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_profile (role=merchant)
+2026-04-15 11:27:01 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_initial_dialogue
+2026-04-15 11:27:01 [INFO] [logging_system] [npc_agent] === NPC generation END: npc_id=npc_0fb71ad3, name=老陈, role=merchant, core_concept={}... ===
+2026-04-15 11:27:01 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_response (npc=友好NPC, player_input='你好...')
+2026-04-15 11:27:01 [INFO] [logging_system] [npc_agent] NPC dialogue completed: npc=友好NPC, player_input='你好...', response='很高兴认识你！这里是平静的小村庄。...'
+2026-04-15 11:27:01 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_response (npc=测试NPC, player_input='玩家输入0...')
+2026-04-15 11:27:01 [INFO] [logging_system] [npc_agent] NPC dialogue completed: npc=测试NPC, player_input='玩家输入0...', response='测试回复。...'
+2026-04-15 11:27:01 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_response (npc=测试NPC, player_input='玩家输入1...')
+2026-04-15 11:27:01 [INFO] [logging_system] [npc_agent] NPC dialogue completed: npc=测试NPC, player_input='玩家输入1...', response='测试回复。...'
+2026-04-15 11:27:01 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_response (npc=测试NPC, player_input='玩家输入2...')
+2026-04-15 11:27:01 [INFO] [logging_system] [npc_agent] NPC dialogue completed: npc=测试NPC, player_input='玩家输入2...', response='测试回复。...'
+2026-04-15 11:27:01 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_response (npc=测试NPC, player_input='玩家输入3...')
+2026-04-15 11:27:01 [INFO] [logging_system] [npc_agent] NPC dialogue completed: npc=测试NPC, player_input='玩家输入3...', response='测试回复。...'
+2026-04-15 11:27:01 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_response (npc=测试NPC, player_input='玩家输入4...')
+2026-04-15 11:27:01 [INFO] [logging_system] [npc_agent] NPC dialogue completed: npc=测试NPC, player_input='玩家输入4...', response='测试回复。...'
+2026-04-15 11:27:01 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_response (npc=测试NPC, player_input='玩家输入5...')
+2026-04-15 11:27:01 [INFO] [logging_system] [npc_agent] NPC dialogue completed: npc=测试NPC, player_input='玩家输入5...', response='测试回复。...'
+2026-04-15 11:27:01 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_response (npc=测试NPC, player_input='玩家输入6...')
+2026-04-15 11:27:01 [INFO] [logging_system] [npc_agent] NPC dialogue completed: npc=测试NPC, player_input='玩家输入6...', response='测试回复。...'
+2026-04-15 11:27:01 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_response (npc=测试NPC, player_input='玩家输入7...')
+2026-04-15 11:27:01 [INFO] [logging_system] [npc_agent] NPC dialogue completed: npc=测试NPC, player_input='玩家输入7...', response='测试回复。...'
+2026-04-15 11:27:01 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_response (npc=测试NPC, player_input='玩家输入8...')
+2026-04-15 11:27:01 [INFO] [logging_system] [npc_agent] NPC dialogue completed: npc=测试NPC, player_input='玩家输入8...', response='测试回复。...'
+2026-04-15 11:27:01 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_response (npc=测试NPC, player_input='玩家输入9...')
+2026-04-15 11:27:01 [INFO] [logging_system] [npc_agent] NPC dialogue completed: npc=测试NPC, player_input='玩家输入9...', response='测试回复。...'
+2026-04-15 11:27:01 [DEBUG] [logging_system] [npc_agent] LLM API call: _generate_npc_response (npc=测试NPC, player_input='你好...')
+2026-04-15 11:27:13 [INFO] [logging_system] [npc_agent] NPC dialogue completed: npc=测试NPC, player_input='你好...', response='嗯，外乡人，这风把你吹到我们这小村子来了？……路上可有什么新...'

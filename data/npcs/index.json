@@ -26,7 +26,16 @@
     "npc_237e8313",
     "npc_eebc242f",
     "npc_b76ab73e",
-    "npc_1a971033"
+    "npc_1a971033",
+    "npc_221485e1",
+    "npc_2dd5aae9",
+    "npc_43be738a",
+    "npc_c3d7c6a8",
+    "npc_3a98768e",
+    "npc_574df22e",
+    "npc_7df7c374",
+    "npc_0432a18f",
+    "npc_740869ea"
   ],
   "villager": [
     "npc_0ec5184b",
@@ -48,7 +57,8 @@
     "npc_3ea9444d",
     "npc_3c251295",
     "npc_8c873e91",
-    "npc_4f084174"
+    "npc_4f084174",
+    "npc_4d7d8e1d"
   ],
   "mystic": [
     "npc_4b19d116",
@@ -93,5 +103,8 @@
     "npc_dd29a9d5",
     "npc_dec2c6a9",
     "npc_8bfc6022"
+  ],
+  "village_elder": [
+    "村长::village_elder"
   ]
 }

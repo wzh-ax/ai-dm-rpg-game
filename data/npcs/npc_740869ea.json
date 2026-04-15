@@ -1,0 +1,19 @@
+{
+  "id": "npc_740869ea",
+  "name": "老马",
+  "role": "merchant",
+  "disposition": "neutral",
+  "core_concept": "精明的酒馆老板娘，以热心待客为面具，在觥筹交错间捕捉每一条有价值的消息",
+  "tags": [
+    "merchant",
+    "精明的酒馆老板娘，以"
+  ],
+  "appearance": "一个典型的merchant",
+  "personality": "精明的酒馆老板娘，以热心待客为面具，在觥筹交错间捕捉每一条有价值的消息",
+  "speech_style": "普通的说话方式",
+  "secrets": [],
+  "knowledge": [],
+  "quests": [],
+  "dialogue": "你好,我是老马。",
+  "created_at": 255427.656
+}

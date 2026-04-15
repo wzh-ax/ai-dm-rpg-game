@@ -65861,8 +65861,5246 @@
         "raw_content": "# 回合 44 — 你的攻击\n\n酒馆里翻倒的椅腿与碎裂的酒瓶铺满地板，你踏过一摊渗着麦酒的湿滑木板，猛地向影狼压低重心。刀锋劈破空气，带着一声尖锐的破风声斜斩而下——\n\n**刀刃切入影狼左肩与肋骨之间的缝隙。**\n\n黑雾般的皮毛在刃口处灼裂，暗红的血液喷溅在脚下的木板上，发出滋滋的轻响，仿佛热铁浸入冷水。影狼发出一声低沉而撕裂的嗥叫，整个身躯向右侧踉跄半步，后爪刨碎了一块松动的地板。它的眼中那团幽蓝的鬼火开始闪烁不稳，后腿微微颤抖——\n\n**但它没有倒下。**\n\n伤口周围的黑雾重新凝聚，它将满口尖牙对准你，喉咙深处滚出一声濒死的威胁低鸣。\n\n---\n\n> ⚔️ **命中！** `d20+12 = 17 vs AC 11`\n> 💥 **伤害：** `-7 HP`\n> 🐺 **影狼状态：** `5/12 HP` · 受了**重伤** · 仍在战斗\n\n影狼的獠牙在你收招的瞬间咬住了破绽——它的利爪如黑色闪电般撕向你侧肋。\n\n撕裂感刺穿皮肉。你踉跄后退半步，肋骨传来阵阵灼痛，酒馆的木地板在脚下吱呀作响。血腥味混着麦酒气息弥漫开来。\n\n你的伤口还在渗血，但你的眼神依然锐利如刀。\n\n**【命中】造成5点伤害**\n**你：17/22 HP**\n【战斗状态】\n  ⚔️ 冒险者: [███████░░░] 17/22 HP\n  🗡️ 影狼: [████░░░░░░] 5/12 HP\n\n  敌人状态: 影狼\n  HP: 5/12 | AC: 11"
       },
       "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_2",
+      "type": "beat_summary",
+      "content": "**Beat beat_2** (None)",
+      "timestamp": 1776192333.509858,
+      "metadata": {
+        "beat_id": "beat_2",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_3",
+      "type": "beat_summary",
+      "content": "**Beat beat_3** (None)",
+      "timestamp": 1776192374.2114773,
+      "metadata": {
+        "beat_id": "beat_3",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 酒馆\n========================================\n\n这里是一个酒馆类型的地点，玩家正在寻找一个酒馆\n\n🌤️ 酒馆中，窗外月光斜照，炉火烘得人昏昏欲睡，角落里的窃窃私语，壁炉的烟熏香，躁动不安。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n\n【云娘】哦，要去“醉仙楼”啊？那可是镇上的老字号。老板姓周，消息灵通，不过他那嘴可不含糊，什么话都能套出来。\n\n\n[回合 3] 你说道：\"去酒馆找老板聊聊\"\n\n空气中弥漫着神秘低沉的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776192385.190074,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n【云娘】哟，客官好品味！这儿的桂花酿可是周老板的招牌，醇香绵长。嗯，要不让小二再上一碟花生米？我请客，咱们边喝边聊。\n\n\n[回合 4] 你说道：\"在酒馆点一杯酒\"\n\n空气中弥漫着神秘低沉的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_5",
+      "type": "beat_summary",
+      "content": "**Beat beat_5** (None)",
+      "timestamp": 1776192393.3656917,
+      "metadata": {
+        "beat_id": "beat_5",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n【云娘】最近的委托啊……哎，让我想想。镇东边的李员外家好像在找能修缮祖宅的工匠，西边的王猎户说山里有野兽闹事，赏金还不低呢。嗯，小哥你这是想接活儿？\n\n\n[回合 5] 你说道：\"询问最近的委托\"\n\n空气中弥漫着神秘低沉的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_6",
+      "type": "beat_summary",
+      "content": "**Beat beat_6** (None)",
+      "timestamp": 1776192401.6216502,
+      "metadata": {
+        "beat_id": "beat_6",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n【云娘】哟，客官这是要掂掂自己的分量？嗯……瞧你这身打扮，不像是来修房子的，倒像是闯过些世面的。\n\n\n[回合 6] 你说道：\"查看自己的状态\"\n\n空气中弥漫着神秘低沉的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_7",
+      "type": "beat_summary",
+      "content": "**Beat beat_7** (None)",
+      "timestamp": 1776192404.2162135,
+      "metadata": {
+        "beat_id": "beat_7",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n==================================================\n🏪 商店 - 月光杂货铺\n==================================================\n💰 你的金币: 10\n--------------------------------------------------\n  暂无商品\n--------------------------------------------------\n💡 输入「买 + 物品名」即可购买（如：买治疗药水）\n=================================================="
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_8",
+      "type": "beat_summary",
+      "content": "**Beat beat_8** (None)",
+      "timestamp": 1776192406.8687484,
+      "metadata": {
+        "beat_id": "beat_8",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n⚠️ 商店里没有「一把新剑」这种商品。\n请查看商店列表：输入「商店」查看所有商品。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_9",
+      "type": "beat_summary",
+      "content": "**Beat beat_9** (None)",
+      "timestamp": 1776192409.5070364,
+      "metadata": {
+        "beat_id": "beat_9",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n==================================================\n🏪 商店 - 月光杂货铺\n==================================================\n💰 你的金币: 10\n--------------------------------------------------\n  暂无商品\n--------------------------------------------------\n💡 输入「买 + 物品名」即可购买（如：买治疗药水）\n=================================================="
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_10",
+      "type": "beat_summary",
+      "content": "**Beat beat_10** (None)",
+      "timestamp": 1776192412.1252568,
+      "metadata": {
+        "beat_id": "beat_10",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 森林\n========================================\n\n这里是一个森林类型的地点,玩家正在寻找一个森林\n\n🌤️ 森林中，磷火在黑暗中闪烁，阳光直射闷热，远处溪水流淌，泥土芬芳，宁静祥和。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 10] 你说道：\"往森林方向走\"\n\n空气中弥漫着神秘莫测的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_11",
+      "type": "beat_summary",
+      "content": "**Beat beat_11** (None)",
+      "timestamp": 1776192414.7474525,
+      "metadata": {
+        "beat_id": "beat_11",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 11] 你说道：\"继续深入森林\"\n\n空气中弥漫着神秘莫测的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_12",
+      "type": "beat_summary",
+      "content": "**Beat beat_12** (None)",
+      "timestamp": 1776192417.3625443,
+      "metadata": {
+        "beat_id": "beat_12",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n影狼发出低沉的咆哮，挡住了你的去路——战斗不可避免！\n\n========================================\n⚔️  战斗开始！\n========================================\n敌人: 影狼 (怪物)\nHP: 12 | AC: 11\n\n你的状态: HP 22/22 | AC 13\n========================================\n可用动作: 攻击 / 防御 / 技能 / 道具 / 逃跑\n\n\n[回合 12] 你说道：\"攻击狼\"\n\n空气中弥漫着神秘莫测的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_13",
+      "type": "beat_summary",
+      "content": "**Beat beat_13** (None)",
+      "timestamp": 1776192434.4425476,
+      "metadata": {
+        "beat_id": "beat_13",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "瓶塞拔开的瞬间，草药的清苦气息冲入鼻腔。温热的液体滑过喉咙，沿着胸腔缓缓散开。虽然伤势已愈，你仍感到一股暖流在四肢间流转，疲惫的肌肉重新绷紧。攥紧空瓶，目光扫向暗处晃动的身影——战斗尚未结束。\n\n影狼血红的眼眸猛然一缩，四肢猛然蹬地，灰黑色的皮毛如箭般射来，獠牙直取你的咽喉！\n\n千钧一发之际，你的身体比思维更快——侧身、闪避，影狼的利爪擦着你的肩头呼啸而过，卷起一阵腥风。你的脚跟深深陷入腐叶堆中，稳住身形。\n\n影狼落地后迅速拉开距离，低吼着在树影间游走，血沫从它受伤的侧腹滴落，在月光下泛着诡异的红光。\n\n**【回合 13】影狼的反击——未命中！遭受伤害：0点｜你依然状态良好（22/22 HP）**\n【战斗状态】\n  ⚔️ 冒险者: [██████████] 22/22 HP\n  🗡️ 影狼: [██████████] 12/12 HP\n\n  敌人状态: 影狼\n  HP: 12/12 | AC: 11"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_14",
+      "type": "beat_summary",
+      "content": "**Beat beat_14** (None)",
+      "timestamp": 1776192478.8451307,
+      "metadata": {
+        "beat_id": "beat_14",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "你的剑刃划破晨雾，精准地斩向影狼的侧腹。剑锋撕裂灰黑色的皮毛，温热的血液瞬间溅洒在林间的落叶上。影狼发出一声凄厉的哀嚎，庞大的身躯剧烈颤抖，后腿踉跄后退，撞倒了一棵矮小的白桦。\n\n影狼的呼吸变得粗重而急促，受伤的腹部肌肉痉挛着，鲜血顺着肋骨的弧度蜿蜒而下，染红了脚边的苔藓。它的瞳孔收缩成危险的竖线，但仍死死盯着你，獠牙间滴落的涎水混合着血沫。\n\n**【命中】造成 7 点伤害**\n**影狼：5/12 HP**\n\n影狼灰白的眼眸中闪过一丝狡黠，它猛然扭转身躯，獠牙在月光下泛着寒芒扑向你！\n\n你的身体先于思维反应——侧身一闪，靴跟在湿软的落叶上碾出一道深痕。影狼的利爪擦着你胸口的皮甲掠过，带起一阵腥臊的冷风。你能感觉到那锋刃割断了几根胸前的皮带，但未能穿透护甲。\n\n【闪避成功！ 影狼的反击落空】\n\n稳住身形，你握紧剑柄的手微微发烫。\n【战斗状态】\n  ⚔️ 冒险者: [██████████] 22/22 HP\n  🗡️ 影狼: [████░░░░░░] 5/12 HP\n\n  敌人状态: 影狼\n  HP: 5/12 | AC: 11"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_2",
+      "type": "beat_summary",
+      "content": "**Beat beat_2** (None)",
+      "timestamp": 1776193866.3118846,
+      "metadata": {
+        "beat_id": "beat_2",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_3",
+      "type": "beat_summary",
+      "content": "**Beat beat_3** (None)",
+      "timestamp": 1776193939.5495539,
+      "metadata": {
+        "beat_id": "beat_3",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 酒馆\n========================================\n\n这里是一个酒馆类型的地点，玩家正在寻找一个酒馆\n\n🌤️ 酒馆中，昏黄烛光摇曳，炉火烘得人昏昏欲睡，角落里的窃窃私语，壁炉的烟熏香，暗流涌动。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n\n【柳絮夫人】哎呀，去酒馆呀？那地方热闹，老板娘人也不错，不过那边的消息嘛……有好有坏，就看你想听哪一种咯。需要我给你带句话过去吗？\n\n\n[回合 3] 你说道：\"去酒馆找老板聊聊\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776193964.4934123,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n【柳絮夫人】酒馆里烟雾缭绕，我给你端上一杯淡麦酒，“尝尝这个，入口绵，后劲足——解乏最合适不过。”\n\n\n[回合 4] 你说道：\"在酒馆点一杯酒\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_5",
+      "type": "beat_summary",
+      "content": "**Beat beat_5** (None)",
+      "timestamp": 1776193999.7669554,
+      "metadata": {
+        "beat_id": "beat_5",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n【柳絮夫人】最近倒有几个不错的委托，城北铁匠铺急着要批药材，报酬挺丰厚；还有人说东边林子里闹了野兽，出得起价钱。要我说，药材那活儿稳当些，您觉得呢？\n\n\n[回合 5] 你说道：\"询问最近的委托\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_6",
+      "type": "beat_summary",
+      "content": "**Beat beat_6** (None)",
+      "timestamp": 1776194007.5956347,
+      "metadata": {
+        "beat_id": "beat_6",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n【柳絮夫人】我放下手中的账本，目光在您身上转了转，“哟，瞧您这风尘仆仆的样子，腰间的水囊都空了。不嫌弃的话，我这儿有点干粮和清水，先垫垫肚子？”\n\n\n[回合 6] 你说道：\"查看自己的状态\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_7",
+      "type": "beat_summary",
+      "content": "**Beat beat_7** (None)",
+      "timestamp": 1776194010.2103004,
+      "metadata": {
+        "beat_id": "beat_7",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n==================================================\n🏪 商店 - 月光杂货铺\n==================================================\n💰 你的金币: 10\n--------------------------------------------------\n  暂无商品\n--------------------------------------------------\n💡 输入「买 + 物品名」即可购买（如：买治疗药水）\n=================================================="
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_8",
+      "type": "beat_summary",
+      "content": "**Beat beat_8** (None)",
+      "timestamp": 1776194012.8431294,
+      "metadata": {
+        "beat_id": "beat_8",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n⚠️ 商店里没有「一把新剑」这种商品。\n请查看商店列表：输入「商店」查看所有商品。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_9",
+      "type": "beat_summary",
+      "content": "**Beat beat_9** (None)",
+      "timestamp": 1776194015.4746706,
+      "metadata": {
+        "beat_id": "beat_9",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n==================================================\n🏪 商店 - 月光杂货铺\n==================================================\n💰 你的金币: 10\n--------------------------------------------------\n  暂无商品\n--------------------------------------------------\n💡 输入「买 + 物品名」即可购买（如：买治疗药水）\n=================================================="
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_10",
+      "type": "beat_summary",
+      "content": "**Beat beat_10** (None)",
+      "timestamp": 1776194018.101569,
+      "metadata": {
+        "beat_id": "beat_10",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 森林\n========================================\n\n这里是一个森林类型的地点,玩家正在寻找一个森林\n\n🌤️ 森林中，暮色四合，湿气弥漫，远处溪水流淌，雨后森林的清新，阴森诡异。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 10] 你说道：\"往森林方向走\"\n\n空气中弥漫着危机四伏的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_11",
+      "type": "beat_summary",
+      "content": "**Beat beat_11** (None)",
+      "timestamp": 1776194020.7295785,
+      "metadata": {
+        "beat_id": "beat_11",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 11] 你说道：\"继续深入森林\"\n\n空气中弥漫着危机四伏的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_12",
+      "type": "beat_summary",
+      "content": "**Beat beat_12** (None)",
+      "timestamp": 1776194023.3601954,
+      "metadata": {
+        "beat_id": "beat_12",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n你的攻击激怒了影狼，它转身迎战，眼中满是杀意！\n\n========================================\n⚔️  战斗开始！\n========================================\n敌人: 影狼 (怪物)\nHP: 12 | AC: 11\n\n你的状态: HP 22/22 | AC 13\n========================================\n可用动作: 攻击 / 防御 / 技能 / 道具 / 逃跑\n\n\n[回合 12] 你说道：\"攻击狼\"\n\n空气中弥漫着危机四伏的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_13",
+      "type": "beat_summary",
+      "content": "**Beat beat_13** (None)",
+      "timestamp": 1776194044.1001198,
+      "metadata": {
+        "beat_id": "beat_13",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "瓶塞拔开的瞬间，草药与蜂蜜混合的甜香弥漫开来。深琥珀色的液体滑入喉咙，温热的能量从胃部向四肢蔓延。\n\n疲惫感如潮水般退去，紧绷的肌肉重新恢复弹性。你握紧剑柄，感受着力量在血管中涌动。周围森林的轮廓变得清晰，敌人的脚步声似乎都慢了下来。\n\n深呼吸，战斗还能继续。\n\n你转身欲追击，影狼却以惊人的速度反身扑来，獠牙直奔你的咽喉——但你的身体比意识更快！侧身一闪，狼吻擦着你的肩头呼啸而过，带起一阵腥冷的风。\n\n影狼的爪子划破空气，削断了几根低垂的枝条。你顺势后撤一步，靴跟陷入松软的落叶，发出细微的沙沙声。\n\n【攻击闪避！闪避判定：成功！】\n\n影狼扑空后落地，琥珀色的眼睛里满是不甘，四肢微微弯曲，随时准备再次扑杀。\n\n*生命值：22/22 HP（未受伤）*\n【战斗状态】\n  ⚔️ 冒险者: [██████████] 22/22 HP\n  🗡️ 影狼: [██████████] 12/12 HP\n\n  敌人状态: 影狼\n  HP: 12/12 | AC: 11"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_14",
+      "type": "beat_summary",
+      "content": "**Beat beat_14** (None)",
+      "timestamp": 1776194084.7853246,
+      "metadata": {
+        "beat_id": "beat_14",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "剑锋划破林间昏暗，精准地朝影狼的颈侧斩去。然而那头野兽的速度超乎预期——它的身影倏忽一晃，在落叶间拖出一道残影，你的武器擦着它油亮的皮毛扑了个空。\n\n影狼借势后跃，落在三步开外的枯枝上，猩红的眼眸中闪过一丝狡黠。它低沉的喉音震动着空气，仿佛在嘲笑你的失手。\n\n**【攻击结果】** 命中：否 | 伤害：0\n\n那柄剑仍悬在半空，刃口上沾染的只有林间的冷雾。\n\n影狼的反击来得比你预想的更快。它的身影在树影间一晃，锐利的爪牙已经朝你的手臂招呼过来。你试图抽剑格挡，但那畜生的速度更胜一筹——利爪划破空气，狠狠撕开了你前臂的皮肉。\n\n一阵刺痛传来，你咬紧牙关，鲜血顺着小臂滴落在枯叶上，染出点点暗红。那伤口虽不致命，却让你的握剑之手微微发颤。影狼退后两步，绿幽幽的眼睛紧盯着你，等待下一个破绽。\n\n**【命中】伤害：4点（18/22 HP）**\n【战斗状态】\n  ⚔️ 冒险者: [████████░░] 18/22 HP\n  🗡️ 影狼: [██████████] 12/12 HP\n\n  敌人状态: 影狼\n  HP: 12/12 | AC: 11"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_2",
+      "type": "beat_summary",
+      "content": "**Beat beat_2** (None)",
+      "timestamp": 1776194225.7294664,
+      "metadata": {
+        "beat_id": "beat_2",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_3",
+      "type": "beat_summary",
+      "content": "**Beat beat_3** (None)",
+      "timestamp": 1776194270.4650843,
+      "metadata": {
+        "beat_id": "beat_3",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 酒馆\n========================================\n\n这里是一个酒馆类型的地点，玩家正在寻找一个酒馆\n\n🌤️ 酒馆中，窗外月光斜照，炉火烘得人昏昏欲睡，木柴燃烧的噼啪声，壁炉的烟熏香，热闹欢快。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n\n【柳娘】哎呀，客官想找酒馆老板呀？那您可算找对人了，柳娘我正好要往那边去。走吧，我带您过去，顺便跟您说说这酒馆里头的门道～\n\n\n[回合 3] 你说道：\"去酒馆找老板聊聊\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776194279.3944309,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n【柳娘】客官想喝点什么？咱们这儿的桂花酿香得很，隔壁桌的客人每次来都要点上两壶。要不……给您也来一壶？\n\n\n[回合 4] 你说道：\"在酒馆点一杯酒\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_5",
+      "type": "beat_summary",
+      "content": "**Beat beat_5** (None)",
+      "timestamp": 1776194286.3686192,
+      "metadata": {
+        "beat_id": "beat_5",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n【柳娘】哎呀，委托的事啊……最近村里王老汉家丢了几只羊，倒是有几个年轻人想去帮忙找找。哦对了，城西李员外那儿好像还有个送信的活儿……您想去哪儿看看？\n\n\n[回合 5] 你说道：\"询问最近的委托\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_6",
+      "type": "beat_summary",
+      "content": "**Beat beat_6** (None)",
+      "timestamp": 1776194295.463847,
+      "metadata": {
+        "beat_id": "beat_6",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n【柳娘】客官您这是怎么了？站在这儿发愣……是身上哪里不舒服，还是在琢磨什么事儿呢？要不要坐下来喝口茶歇歇？\n\n\n[回合 6] 你说道：\"查看自己的状态\"\n\n空气中弥漫着躁动不安的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_7",
+      "type": "beat_summary",
+      "content": "**Beat beat_7** (None)",
+      "timestamp": 1776194298.1400104,
+      "metadata": {
+        "beat_id": "beat_7",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n==================================================\n🏪 商店 - 月光杂货铺\n==================================================\n💰 你的金币: 10\n--------------------------------------------------\n  暂无商品\n--------------------------------------------------\n💡 输入「买 + 物品名」即可购买（如：买治疗药水）\n=================================================="
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_8",
+      "type": "beat_summary",
+      "content": "**Beat beat_8** (None)",
+      "timestamp": 1776194300.763983,
+      "metadata": {
+        "beat_id": "beat_8",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n⚠️ 商店里没有「一把新剑」这种商品。\n请查看商店列表：输入「商店」查看所有商品。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_9",
+      "type": "beat_summary",
+      "content": "**Beat beat_9** (None)",
+      "timestamp": 1776194303.3853614,
+      "metadata": {
+        "beat_id": "beat_9",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n==================================================\n🏪 商店 - 月光杂货铺\n==================================================\n💰 你的金币: 10\n--------------------------------------------------\n  暂无商品\n--------------------------------------------------\n💡 输入「买 + 物品名」即可购买（如：买治疗药水）\n=================================================="
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_10",
+      "type": "beat_summary",
+      "content": "**Beat beat_10** (None)",
+      "timestamp": 1776194306.0259151,
+      "metadata": {
+        "beat_id": "beat_10",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 森林\n========================================\n\n这里是一个森林类型的地点,玩家正在寻找一个森林\n\n🌤️ 森林中，暮色四合，夜间的寒意，树叶沙沙作响，松脂的清香，阴森诡异。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 10] 你说道：\"往森林方向走\"\n\n空气中弥漫着神秘莫测的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_11",
+      "type": "beat_summary",
+      "content": "**Beat beat_11** (None)",
+      "timestamp": 1776194308.6359851,
+      "metadata": {
+        "beat_id": "beat_11",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 11] 你说道：\"继续深入森林\"\n\n空气中弥漫着神秘莫测的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_12",
+      "type": "beat_summary",
+      "content": "**Beat beat_12** (None)",
+      "timestamp": 1776194311.2679505,
+      "metadata": {
+        "beat_id": "beat_12",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n影狼发出低沉的咆哮，挡住了你的去路——战斗不可避免！\n\n========================================\n⚔️  战斗开始！\n========================================\n敌人: 影狼 (怪物)\nHP: 12 | AC: 11\n\n你的状态: HP 22/22 | AC 13\n========================================\n可用动作: 攻击 / 防御 / 技能 / 道具 / 逃跑\n\n\n[回合 12] 你说道：\"攻击狼\"\n\n空气中弥漫着神秘莫测的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_13",
+      "type": "beat_summary",
+      "content": "**Beat beat_13** (None)",
+      "timestamp": 1776194334.6209018,
+      "metadata": {
+        "beat_id": "beat_13",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "森林的湿气中，你从腰间的皮袋里掏出那瓶泛着淡绿光泽的治疗药水。敌人就在不远处潜伏，你果断拔开木塞，一饮而尽——药液滑过喉咙，带着草药与蜂蜜的微甜，一股温和的暖流从胸腔漫向四肢。\n\n即便满身伤痕未褪，你仍感到力量在血管中奔涌，仿佛有什么在修补着你紧绷的神经。深呼吸间，疲惫消退了。\n\n你握紧武器，准备迎战下一轮。\n\n# 影狼的反击\n\n你的剑锋尚未完全收回，阴影中骤然爆发出嗜血的光芒。影狼四肢猛然发力，化作一道漆黑的闪电扑向你的侧翼。\n\n利爪撕裂空气的声音刺痛耳膜——你来不及闪避！\n\n“嘶啦——”\n\n冰凉的爪刃切入你的腰侧，皮肉撕裂的剧痛瞬间蔓延全身。你踉跄后退半步，温热的血液沿着肋骨淌下，浸透了衣袍。\n\n影狼落地，喉间滚动着低沉的咆哮，琥珀色的瞳孔中燃烧着得逞的快意。\n\n**「反击命中！造成 6 点伤害（22 → 16 HP）」**\n【战斗状态】\n  ⚔️ 冒险者: [███████░░░] 16/22 HP\n  🗡️ 影狼: [██████████] 12/12 HP\n\n  敌人状态: 影狼\n  HP: 12/12 | AC: 11"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_14",
+      "type": "beat_summary",
+      "content": "**Beat beat_14** (None)",
+      "timestamp": 1776194367.914005,
+      "metadata": {
+        "beat_id": "beat_14",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "你的刀锋划破昏暗的林间光线，直取影狼的咽喉要害。这头野兽正要扑向最近的树影，却被你的攻击打了个措手不及——刀刃撕裂它颈侧的皮毛，鲜血顺着银灰的毛发滴落，染红了脚下的苔藓。影狼痛苦地呜咽一声，踉跄后退，受伤的躯体在树影间摇晃，却仍龇着獠牙，伺机反扑。\n\n**命中** | 造成伤害：**7点**\n**影狼：5/12 HP（轻伤）**\n\n【影狼 战术】影狼受了伤，摆出防御姿态，蓄势待发！\n【战斗状态】\n  ⚔️ 冒险者: [███████░░░] 16/22 HP\n  🗡️ 影狼: [████░░░░░░] 5/12 HP 🛡️\n\n  敌人状态: 影狼\n  HP: 5/12 | AC: 11\n【战斗状态】\n  ⚔️ 冒险者: [███████░░░] 16/22 HP\n  🗡️ 影狼: [████░░░░░░] 5/12 HP 🛡️\n\n  敌人状态: 影狼\n  HP: 5/12 | AC: 11"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_2",
+      "type": "beat_summary",
+      "content": "**Beat beat_2** (None)",
+      "timestamp": 1776196860.8942642,
+      "metadata": {
+        "beat_id": "beat_2",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_3",
+      "type": "beat_summary",
+      "content": "**Beat beat_3** (None)",
+      "timestamp": 1776196932.066862,
+      "metadata": {
+        "beat_id": "beat_3",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 酒馆\n========================================\n\n这里是一个酒馆类型的地点，玩家正在寻找一个酒馆\n\n🌤️ 酒馆中，昏黄烛光摇曳，温暖如春，觥筹交错，壁炉的烟熏香，神秘低沉。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n\n【柳婉娘】哟，客官要去醉仙楼？巧了，那家的陈掌柜与我常有生意往来。若您不嫌弃，我可以替您引荐一二。\n\n\n[回合 3] 你说道：\"去酒馆找老板聊聊\"\n\n空气中弥漫着神秘低沉的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776196954.2509913,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n【柳婉娘】哎呀，客官稍坐！小二，来一壶桂花酿，再配几碟下酒小菜。我与掌柜是老相识，这酒钱算我的，算是给客官接风啦！\n\n\n[回合 4] 你说道：\"在酒馆点一杯酒\"\n\n空气中弥漫着暗流涌动的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_5",
+      "type": "beat_summary",
+      "content": "**Beat beat_5** (None)",
+      "timestamp": 1776196963.0455709,
+      "metadata": {
+        "beat_id": "beat_5",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n【柳婉娘】哎，客官想接活计？前几日倒有人来问，说是要寻个胆大的帮手，去城外的废弃矿洞取些东西。具体的……您若有兴趣，咱们私下再细谈。\n\n\n[回合 5] 你说道：\"询问最近的委托\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_6",
+      "type": "beat_summary",
+      "content": "**Beat beat_6** (None)",
+      "timestamp": 1776196971.13055,
+      "metadata": {
+        "beat_id": "beat_6",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n【柳婉娘】哟，客官这是在瞧什么呢？莫不是身上落了伤？来来来，让我瞧瞧可是哪儿不舒坦？\n\n\n[回合 6] 你说道：\"查看自己的状态\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_7",
+      "type": "beat_summary",
+      "content": "**Beat beat_7** (None)",
+      "timestamp": 1776196973.7382846,
+      "metadata": {
+        "beat_id": "beat_7",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n==================================================\n🏪 商店 - 月光杂货铺\n==================================================\n💰 你的金币: 10\n--------------------------------------------------\n  暂无商品\n--------------------------------------------------\n💡 输入「买 + 物品名」即可购买（如：买治疗药水）\n=================================================="
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_8",
+      "type": "beat_summary",
+      "content": "**Beat beat_8** (None)",
+      "timestamp": 1776196976.3400319,
+      "metadata": {
+        "beat_id": "beat_8",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n⚠️ 商店里没有「一把新剑」这种商品。\n请查看商店列表：输入「商店」查看所有商品。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_9",
+      "type": "beat_summary",
+      "content": "**Beat beat_9** (None)",
+      "timestamp": 1776196978.9758532,
+      "metadata": {
+        "beat_id": "beat_9",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n==================================================\n🏪 商店 - 月光杂货铺\n==================================================\n💰 你的金币: 10\n--------------------------------------------------\n  暂无商品\n--------------------------------------------------\n💡 输入「买 + 物品名」即可购买（如：买治疗药水）\n=================================================="
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_10",
+      "type": "beat_summary",
+      "content": "**Beat beat_10** (None)",
+      "timestamp": 1776196981.6043553,
+      "metadata": {
+        "beat_id": "beat_10",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 森林\n========================================\n\n这里是一个森林类型的地点,玩家正在寻找一个森林\n\n🌤️ 森林中，雾气中透出微光，雾气中带着凉意，风吹过树梢的呼啸，松脂的清香，宁静祥和。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 10] 你说道：\"往森林方向走\"\n\n空气中弥漫着宁静祥和的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_11",
+      "type": "beat_summary",
+      "content": "**Beat beat_11** (None)",
+      "timestamp": 1776196984.2122931,
+      "metadata": {
+        "beat_id": "beat_11",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 11] 你说道：\"继续深入森林\"\n\n空气中弥漫着宁静祥和的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_12",
+      "type": "beat_summary",
+      "content": "**Beat beat_12** (None)",
+      "timestamp": 1776196986.8271692,
+      "metadata": {
+        "beat_id": "beat_12",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n你的攻击激怒了森林巨魔，它转身迎战，眼中满是杀意！\n\n========================================\n⚔️  战斗开始！\n========================================\n敌人: 森林巨魔 (怪物)\nHP: 35 | AC: 14\n\n你的状态: HP 22/22 | AC 13\n========================================\n可用动作: 攻击 / 防御 / 技能 / 道具 / 逃跑\n\n\n[回合 12] 你说道：\"攻击狼\"\n\n空气中弥漫着宁静祥和的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_13",
+      "type": "beat_summary",
+      "content": "**Beat beat_13** (None)",
+      "timestamp": 1776197012.8522582,
+      "metadata": {
+        "beat_id": "beat_13",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "瓶塞拔开的瞬间，清冽的药草香气扑面而来。你仰头将温热的液体灌入口中，琥珀色的液体滑过喉咙，带着淡淡的蜂蜜甜味。瓶底最后一滴流入体内，周身的疲惫似乎减轻了些许——那不仅是药效，更像是战士血脉中涌动的自愈之力的唤醒。你握紧剑柄，指节的酸痛消散在林间的微风里。\n\n# 森林巨魔的反击\n\n你刚完成攻击还未收稳架势，巨魔那布满青苔般绿褶的双臂已猛然挥来。它的利爪撕裂空气，带着腐叶与腐肉的恶臭——\n\n**\"砰！\"**\n\n利爪狠狠撕开你的侧腹，皮肉绽裂的痛感瞬间蔓延。血珠沿着腰间滴落，染红了脚边的枯叶。你踉跄后退半步，牙关紧咬，强压下那阵眩晕。\n\n**【命中】 伤害: 5点**\n**【HP变化】 22 → 17/22**\n【战斗状态】\n  ⚔️ 冒险者: [███████░░░] 17/22 HP\n  🗡️ 森林巨魔: [██████████] 35/35 HP\n\n  敌人状态: 森林巨魔\n  HP: 35/35 | AC: 14"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_14",
+      "type": "beat_summary",
+      "content": "**Beat beat_14** (None)",
+      "timestamp": 1776197050.7026637,
+      "metadata": {
+        "beat_id": "beat_14",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "# 战斗叙事\n\n你猛地蹬地，刀刃裹挟着破空之声朝巨魔的咽喉横斩而去。森林巨魔发出一声低沉的咆哮，腐臭的口气扑面而来。它那布满青苔的粗糙皮肤下，肌肉猛然绷紧——比你想象的更快！巨魔侧身一扭，你锋利的刀锋擦着那厚实的肩胛骨滑过，溅起几缕灰绿色的皮屑，却未能切入血肉。\n\n“嗬……”巨魔从喉咙深处挤出一声嘲笑，浑浊的眼珠紧盯着你，嘴角淌下粘稠的涎液。\n\n**【未命中】** 巨魔敏捷地避开了你的斩击。\n\n**【伤害值：0】**\n\n# 森林巨魔的反击\n\n脚下的枯叶还没来得及稳住，巨魔那根布满木刺的粗糙木棍已经呼啸而至。你下意识侧身想要闪避，却慢了半拍——棍身狠狠砸在你的肩胛骨上，剧痛瞬间炸开，半边身子像被火烧般麻木。\n\n鲜血顺着锁骨淌下，染红了你的外衣。呼吸变得急促而浅短，每一次心跳都牵扯着那道撕裂般的伤口。\n\n**巨魔的反扑命中了你的身体，造成8点伤害。**\n**HP: 9/22 → 1/22**\n【战斗状态】\n  ⚔️ 冒险者: [████░░░░░░] 9/22 HP\n  🗡️ 森林巨魔: [██████████] 35/35 HP\n\n  敌人状态: 森林巨魔\n  HP: 35/35 | AC: 14"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_2",
+      "type": "beat_summary",
+      "content": "**Beat beat_2** (None)",
+      "timestamp": 1776197224.1792796,
+      "metadata": {
+        "beat_id": "beat_2",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_3",
+      "type": "beat_summary",
+      "content": "**Beat beat_3** (None)",
+      "timestamp": 1776197278.6576502,
+      "metadata": {
+        "beat_id": "beat_3",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 酒馆\n========================================\n\n这里是一个酒馆类型的地点，玩家正在寻找一个酒馆\n\n🌤️ 酒馆中，窗外月光斜照，炉火烘得人昏昏欲睡，吟游诗人弹唱，香料热红酒的甜香，慵懒惬意。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n\n【福婶】哎呀，去酒馆啊……老板人不错，就是最近好像也在为什么事发愁呢。你去找他聊聊也好，兴许能打听到些消息。\n\n\n[回合 3] 你说道：\"去酒馆找老板聊聊\"\n\n空气中弥漫着暗流涌动的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776197319.560551,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n【福婶】哎，在酒馆点酒啊……要我说，这里的麦酒还算醇厚。老板最近心事重，但手艺没落下，一杯下去暖身子。\n\n\n[回合 4] 你说道：\"在酒馆点一杯酒\"\n\n空气中弥漫着暗流涌动的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_5",
+      "type": "beat_summary",
+      "content": "**Beat beat_5** (None)",
+      "timestamp": 1776197357.537824,
+      "metadata": {
+        "beat_id": "beat_5",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n【福婶】最近镇上确实有几个委托呢……听说有户人家闹耗子，还有一位老爷在找丢失的传家宝。不过嘛，这些活儿报酬都不算丰厚，你想接哪个？\n\n\n[回合 5] 你说道：\"询问最近的委托\"\n\n空气中弥漫着暗流涌动的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_6",
+      "type": "beat_summary",
+      "content": "**Beat beat_6** (None)",
+      "timestamp": 1776197368.4512565,
+      "metadata": {
+        "beat_id": "beat_6",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n【福婶】哎，瞧你愣在那儿的样子……是不是在想什么事情？要不要让婶子帮你瞧瞧有没有什么需要的货物？\n\n\n[回合 6] 你说道：\"查看自己的状态\"\n\n空气中弥漫着热闹欢快的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_7",
+      "type": "beat_summary",
+      "content": "**Beat beat_7** (None)",
+      "timestamp": 1776197371.0792415,
+      "metadata": {
+        "beat_id": "beat_7",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n==================================================\n🏪 商店 - 月光杂货铺\n==================================================\n💰 你的金币: 10\n--------------------------------------------------\n  暂无商品\n--------------------------------------------------\n💡 输入「买 + 物品名」即可购买（如：买治疗药水）\n=================================================="
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_8",
+      "type": "beat_summary",
+      "content": "**Beat beat_8** (None)",
+      "timestamp": 1776197373.7044556,
+      "metadata": {
+        "beat_id": "beat_8",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n⚠️ 商店里没有「一把新剑」这种商品。\n请查看商店列表：输入「商店」查看所有商品。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_9",
+      "type": "beat_summary",
+      "content": "**Beat beat_9** (None)",
+      "timestamp": 1776197376.3037493,
+      "metadata": {
+        "beat_id": "beat_9",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n==================================================\n🏪 商店 - 月光杂货铺\n==================================================\n💰 你的金币: 10\n--------------------------------------------------\n  暂无商品\n--------------------------------------------------\n💡 输入「买 + 物品名」即可购买（如：买治疗药水）\n=================================================="
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_10",
+      "type": "beat_summary",
+      "content": "**Beat beat_10** (None)",
+      "timestamp": 1776197378.9306056,
+      "metadata": {
+        "beat_id": "beat_10",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 森林\n========================================\n\n这里是一个森林类型的地点,玩家正在寻找一个森林\n\n🌤️ 森林中，暮色四合，阳光直射闷热，风吹过树梢的呼啸，泥土芬芳，危机四伏。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 10] 你说道：\"往森林方向走\"\n\n空气中弥漫着危机四伏的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_11",
+      "type": "beat_summary",
+      "content": "**Beat beat_11** (None)",
+      "timestamp": 1776197381.5421128,
+      "metadata": {
+        "beat_id": "beat_11",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 11] 你说道：\"继续深入森林\"\n\n空气中弥漫着宁静祥和的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_12",
+      "type": "beat_summary",
+      "content": "**Beat beat_12** (None)",
+      "timestamp": 1776197384.1399648,
+      "metadata": {
+        "beat_id": "beat_12",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n影狼发出低沉的咆哮，挡住了你的去路——战斗不可避免！\n\n========================================\n⚔️  战斗开始！\n========================================\n敌人: 影狼 (怪物)\nHP: 12 | AC: 11\n\n你的状态: HP 22/22 | AC 13\n========================================\n可用动作: 攻击 / 防御 / 技能 / 道具 / 逃跑\n\n\n[回合 12] 你说道：\"攻击狼\"\n\n空气中弥漫着宁静祥和的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_13",
+      "type": "beat_summary",
+      "content": "**Beat beat_13** (None)",
+      "timestamp": 1776197401.9352477,
+      "metadata": {
+        "beat_id": "beat_13",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "拔开软木塞，冰凉的药水顺着喉咙滑落。森林的瘴气似乎被这温热的液体驱散，疲惫的肌肉重新绷紧，掌心传来久违的暖意。虽然伤口已经愈合，但你知道暗处的威胁仍未消散——手指紧紧攥住空瓶，准备迎接下一轮攻击。\n\n# 战斗叙事\n\n残影闪过，影狼猛然转身扑来！利爪撕裂空气，带着尖锐的破风声直取你的咽喉——\n\n千钧一发之际，你的身体本能地向左侧倾，肩胛骨擦着狼爪的寒芒滑过。那利爪切开了你衣角的布料，却只抓到一片虚无。落地时你顺势翻滚，脚跟碾碎了几根枯枝，稳住身形。\n\n冷汗顺着脊背滑落，你盯着影狼那双幽绿的瞳孔，喘息间能闻到空气中弥漫的血腥气息。\n\n**【回合 13】影狼反击 → 未命中！伤害：0 | 你的状态：22/22 HP**\n【战斗状态】\n  ⚔️ 冒险者: [██████████] 22/22 HP\n  🗡️ 影狼: [██████████] 12/12 HP\n\n  敌人状态: 影狼\n  HP: 12/12 | AC: 11"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_14",
+      "type": "beat_summary",
+      "content": "**Beat beat_14** (None)",
+      "timestamp": 1776197441.1549375,
+      "metadata": {
+        "beat_id": "beat_14",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "剑锋划破潮湿的空气，精准地切入影狼侧腹。灰黑色的皮毛被撕裂，温热的血液喷溅在苍白的苔藓上。影狼发出一声尖锐的哀嚎，身躯猛地一颤，踉跄后退两步。它浑浊的眼瞳中闪过恐惧，受伤的前腿微微颤抖，勉强支撑着摇摇欲坠的身体。血腥味在林间弥漫。\n\n**命中！** 造成 **5** 点伤害。影狼：(7/12 HP)\n\n影狼低吼一声，四肢猛然发力朝你扑来，利爪带着呼啸的风声直取你的咽喉。你侧身一闪，感觉到那冰冷的爪风擦过你的脸颊，割断了几根飘落的发丝。影狼扑空后在地上打了个滚，泥土飞溅，它重新站稳，用幽绿的瞳孔死死盯着你，嘴角淌下黏稠的涎液。\n\n**【闪避成功】** 命中/未命中: 未命中 | 伤害值: 0 | 你当前状态: 22/22 HP\n【战斗状态】\n  ⚔️ 冒险者: [██████████] 22/22 HP\n  🗡️ 影狼: [█████░░░░░] 7/12 HP\n\n  敌人状态: 影狼\n  HP: 7/12 | AC: 11"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_3",
+      "type": "beat_summary",
+      "content": "**Beat beat_3** (None)",
+      "timestamp": 1776199413.7702608,
+      "metadata": {
+        "beat_id": "beat_3",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 森林\n========================================\n\n这里是一个森林类型的地点,玩家正在寻找一个森林\n\n🌤️ 森林中，斑驳阳光透过树叶，阳光直射闷热，远处溪水流淌，野花清香，宁静祥和。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 3] 你说道：\"查看周围环境\"\n\n空气中弥漫着充满生机的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776199414.1746497,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_5",
+      "type": "beat_summary",
+      "content": "**Beat beat_5** (None)",
+      "timestamp": 1776199414.595932,
+      "metadata": {
+        "beat_id": "beat_5",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 酒馆\n========================================\n\n这里是一个酒馆类型的地点，玩家正在寻找一个酒馆\n\n🌤️ 酒馆中，炉火噼啪作响，微凉的夜风从门缝渗入，木柴燃烧的噼啪声，壁炉的烟熏香，神秘低沉。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 5] 你说道：\"去酒馆\"\n\n空气中弥漫着神秘低沉的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_6",
+      "type": "beat_summary",
+      "content": "**Beat beat_6** (None)",
+      "timestamp": 1776199415.0051355,
+      "metadata": {
+        "beat_id": "beat_6",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 酒馆\n========================================\n\n这里是一个酒馆类型的地点，玩家正在寻找一个酒馆\n\n🌤️ 酒馆中，炉火噼啪作响，微凉的夜风从门缝渗入，觥筹交错，，躁动不安，躁动不安。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 6] 你说道：\"进入酒馆\"\n\n空气中弥漫着躁动不安的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_7",
+      "type": "beat_summary",
+      "content": "**Beat beat_7** (None)",
+      "timestamp": 1776199415.4162993,
+      "metadata": {
+        "beat_id": "beat_7",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_8",
+      "type": "beat_summary",
+      "content": "**Beat beat_8** (None)",
+      "timestamp": 1776199415.8398175,
+      "metadata": {
+        "beat_id": "beat_8",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n你抽出武器，影狼也亮出了獠牙。剑拔弩张！\n\n========================================\n⚔️  战斗开始！\n========================================\n敌人: 影狼 (怪物)\nHP: 12 | AC: 11\n\n你的状态: HP 22/22 | AC 13\n========================================\n可用动作: 攻击 / 防御 / 技能 / 道具 / 逃跑\n\n\n[回合 8] 你说道：\"打听消息\"\n\n空气中弥漫着躁动不安的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_9",
+      "type": "beat_summary",
+      "content": "**Beat beat_9** (None)",
+      "timestamp": 1776199499.2555428,
+      "metadata": {
+        "beat_id": "beat_9",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "# 战斗叙事\n\n你的长剑划破空气，银光一闪，直取影狼的咽喉！\n\n那畜生本能地侧身闪避，锋刃还是撕开了它肩胛处的皮毛。鲜血迸溅，染红了旁边的木桌。影狼惨嚎一声，踉跄后退，琥珀色的眼瞳中燃烧着痛楚与怒意，喉间滚出低沉的威胁声。\n\n它的前肢微微颤抖，却仍死死盯着你，獠牙在烛火下泛着寒光。\n\n> **命中！** 造成 **3** 点伤害\n> 影狼：9/12 HP（受伤）\n\n影狼低吼一声，后腿猛然发力，化作一道黑影扑向你的左肋。锋利的爪子如刀锋划过空气，划破酒馆的灯火与尘埃。你感到肋间撕裂的剧痛，血液随爪痕渗出，染红了衣衫。你踉跄后退一步，撞翻了旁边的木桶，酒液四溅。命中！伤害 6点，HP 16/22\n【战斗状态】\n  ⚔️ 冒险者: [███████░░░] 16/22 HP\n  🗡️ 影狼: [███████░░░] 9/12 HP\n\n  敌人状态: 影狼\n  HP: 9/12 | AC: 11"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_16",
+      "type": "beat_summary",
+      "content": "**Beat beat_16** (None)",
+      "timestamp": 1776199499.35622,
+      "metadata": {
+        "beat_id": "beat_16",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "寒光一闪，你的短剑划破空气直取影狼咽喉！然而那狼形生物反应奇快，黝黑的身形猛然一矮，侧身闪过剑锋。你的剑刃仅切下一撮飘落的黑色兽毛。\n\n影狼四肢伏低，喉咙深处滚出低沉的咆哮，琥珀色的眼珠死死锁住你。它前爪在地板上刨出一道浅浅的痕迹，随时准备扑咬反击。\n\n**【未命中】** 攻击落空\n\n**影狼**：9/12 HP（状态良好）\n\n影狼的伤口在火光下泛着诡异的紫黑色光泽，它猛地压低身躯，残破的爪子划破空气直取你的咽喉。你侧身闪避，肩膀擦过酒馆的木质柜台，酒杯被撞得叮当作响。影狼的攻击擦着你的耳际呼啸而过，锋利的爪风割断了几缕发丝。\n\n你顺势旋身，稳稳站定，呼吸均匀。\n\n**【闪避成功】影狼的反击落空，0点伤害。你目前生命值16/22。**\n【战斗状态】\n  ⚔️ 冒险者: [███████░░░] 16/22 HP\n  🗡️ 影狼: [███████░░░] 9/12 HP\n\n  敌人状态: 影狼\n  HP: 9/12 | AC: 11"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_18",
+      "type": "beat_summary",
+      "content": "**Beat beat_18** (None)",
+      "timestamp": 1776199499.4601421,
+      "metadata": {
+        "beat_id": "beat_18",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "你的剑锋划破酒馆浑浊的空气，直取影狼咽喉。那畜生侧身闪避，却慢了一拍——剑刃切入它的肩胛，温热的血珠飞溅在满是酒渍的木桌上。影狼闷哼一声，灰白的皮毛下肌肉痉挛，鲜血沿着肋骨淌下，在脚边汇成一小洼。\n\n**【命中】** 伤害: 3点 | 影狼剩余 HP: 6/12\n\n# 战斗叙事\n\n影狼的伤口在火光下泛着幽暗的光泽，却毫无退缩之意。它的前爪猛然挥出，锋利的爪刃撕裂空气，直取你的腹部——\n\n你试图侧身闪避，但那畜生的速度超乎想象。冰冷的爪尖划过你的侧腰，撕裂布料，鲜血瞬间染红了你的衬衫。你踉跄后退一步，撞翻了身后的木椅，酒杯摔碎在地。\n\n剧痛从伤口蔓延开来，你的呼吸变得急促。但你强撑着站稳，右手紧握武器，冷汗顺着额角滑落。\n\n**【命中】** 伤害：**5点** | 状态：**11/22 HP（轻伤）**\n【战斗状态】\n  ⚔️ 冒险者: [█████░░░░░] 11/22 HP\n  🗡️ 影狼: [█████░░░░░] 6/12 HP\n\n  敌人状态: 影狼\n  HP: 6/12 | AC: 11"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_3",
+      "type": "beat_summary",
+      "content": "**Beat beat_3** (None)",
+      "timestamp": 1776201959.9284122,
+      "metadata": {
+        "beat_id": "beat_3",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 森林\n========================================\n\n这里是一个森林类型的地点,玩家正在寻找一个森林\n\n🌤️ 森林中，暮色四合，清凉宜人，风吹过树梢的呼啸，野花清香，充满生机。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 3] 你说道：\"查看周围环境\"\n\n空气中弥漫着充满生机的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776201960.3350594,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_5",
+      "type": "beat_summary",
+      "content": "**Beat beat_5** (None)",
+      "timestamp": 1776201960.7565904,
+      "metadata": {
+        "beat_id": "beat_5",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 酒馆\n========================================\n\n这里是一个酒馆类型的地点，玩家正在寻找一个酒馆\n\n🌤️ 酒馆中，昏黄烛光摇曳，微凉的夜风从门缝渗入，角落里的窃窃私语，壁炉的烟熏香，神秘低沉。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 5] 你说道：\"去酒馆\"\n\n空气中弥漫着热闹欢快的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_6",
+      "type": "beat_summary",
+      "content": "**Beat beat_6** (None)",
+      "timestamp": 1776201961.1642008,
+      "metadata": {
+        "beat_id": "beat_6",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 酒馆\n========================================\n\n这里是一个酒馆类型的地点，玩家正在寻找一个酒馆\n\n🌤️ 酒馆中，窗外月光斜照，热浪夹杂着酒香，，潮湿木头的霉味，热闹欢快，热闹欢快。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 6] 你说道：\"进入酒馆\"\n\n空气中弥漫着热闹欢快的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_7",
+      "type": "beat_summary",
+      "content": "**Beat beat_7** (None)",
+      "timestamp": 1776201961.5851707,
+      "metadata": {
+        "beat_id": "beat_7",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_8",
+      "type": "beat_summary",
+      "content": "**Beat beat_8** (None)",
+      "timestamp": 1776201962.00002,
+      "metadata": {
+        "beat_id": "beat_8",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n你抽出武器，影狼也亮出了獠牙。剑拔弩张！\n\n========================================\n⚔️  战斗开始！\n========================================\n敌人: 影狼 (怪物)\nHP: 12 | AC: 11\n\n你的状态: HP 22/22 | AC 13\n========================================\n可用动作: 攻击 / 防御 / 技能 / 道具 / 逃跑\n\n\n[回合 8] 你说道：\"打听消息\"\n\n空气中弥漫着热闹欢快的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_9",
+      "type": "beat_summary",
+      "content": "**Beat beat_9** (None)",
+      "timestamp": 1776202009.4274364,
+      "metadata": {
+        "beat_id": "beat_9",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "# 酒馆激战\n\n你握紧手中的武器，侧身向前猛扑，利刃划破空气直取影狼咽喉。然而那畜生反应极快——它的身形骤然压低，灰黑色的皮毛擦着你的刀锋滑过，前爪借势一拍，将你的攻击偏斜到一旁。你重心一失，踉跄后退半步，靴跟在湿滑的酒馆地板上刮出刺耳声响。\n\n影狼发出一声低沉的嘶吼，猩红的眼睛紧盯着你，嘴角淌下一缕粘稠的涎液。\n\n**【未命中】** *攻击偏离 — 伤害：0*\n\n影狼的利爪撕裂空气，带着暗影的寒意划过你的肋部。剧痛如电流般窜遍全身，你踉跄后退半步，撞翻了身后的木椅。血腥味在空气中弥漫，烛火摇曳中，伤口渗出的鲜血染红了衣襟。\n\n**命中！伤害：7点（15/22 HP）**\n【战斗状态】\n  ⚔️ 冒险者: [██████░░░░] 15/22 HP\n  🗡️ 影狼: [██████████] 12/12 HP\n\n  敌人状态: 影狼\n  HP: 12/12 | AC: 11"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_11",
+      "type": "beat_summary",
+      "content": "**Beat beat_11** (None)",
+      "timestamp": 1776202035.7256715,
+      "metadata": {
+        "beat_id": "beat_11",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "你的剑锋划破酒馆浑浊的空气，直取影狼咽喉！\n\n然而那道黑影早有防备——影狼铁灰色的身躯骤然下沉，脊背几乎贴地，你的剑刃从它耳尖上方堪堪掠过，削落几缕黑色的绒毛。它趁你收剑不及的空隙，獠牙森森地朝你小臂咬来，你被迫侧身后撤，肩膀撞翻了身后歪斜的木桌，杯盏碎裂声刺耳。\n\n你的攻击落空了，那畜生正用嘲讽般的绿瞳盯着你，喉咙深处滚动着低沉的咆哮。\n\n**【未命中】**\n**伤害值：0**\n\n影狼的后腿猛然蹬地，化作一道灰影扑向你！它的利爪撕裂空气，直取你的咽喉。然而你早有防备——侧身一闪，影狼的爪锋擦着你的肩甲划过，激起一串刺耳的金属摩擦声。灰白的皮毛掠过你的视野，带着一股腐肉与血腥的恶臭。影狼落地后发出低沉的咆哮，猩红的眼睛紧盯着你，寻找下一个破绽。\n\n**【未命中】** 攻击被闪避，伤害：**0** | 你：**15/22 HP**\n【战斗状态】\n  ⚔️ 冒险者: [██████░░░░] 15/22 HP\n  🗡️ 影狼: [██████████] 12/12 HP\n\n  敌人状态: 影狼\n  HP: 12/12 | AC: 11"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_14",
+      "type": "beat_summary",
+      "content": "**Beat beat_14** (None)",
+      "timestamp": 1776202035.8393278,
+      "metadata": {
+        "beat_id": "beat_14",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "你的剑锋划破酒馆浑浊的空气，直取影狼的咽喉。黑影身形一扭，堪堪避开了致命一击，但那锋利的刃芒仍在它银灰的皮毛上撕开一道血槽。\n\n影狼痛嚎一声，伤口处渗出暗红的血珠，顺着脖颈滴落在满是酒渍的木地板上。它那双幽绿的瞳孔中闪过一丝凶光，压低身躯，肌肉紧绷，随时准备反扑。\n\n【命中 | 造成 3 点伤害 | 影狼：9/12 HP】\n\n你一剑劈下，锋刃划破空气直取影狼咽喉。然而那畜生早有防备——它矮身一闪，避开剑锋的同时猛然扭身，利爪如暗影中突现的刀锋，狠狠撕过你握剑的手臂！\n\n剧痛瞬间炸开。你闷哼一声，鲜血顺着小臂滴落在酒馆满是污渍的木地板上。伤口皮肉外翻，每一次试图握紧剑柄都牵动着撕裂的疼痛。\n\n【命中 | 伤害：6 | 你的HP：9/22】\n【战斗状态】\n  ⚔️ 冒险者: [████░░░░░░] 9/22 HP\n  🗡️ 影狼: [███████░░░] 9/12 HP\n\n  敌人状态: 影狼\n  HP: 9/12 | AC: 11"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_17",
+      "type": "beat_summary",
+      "content": "**Beat beat_17** (None)",
+      "timestamp": 1776202035.952592,
+      "metadata": {
+        "beat_id": "beat_17",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "你低喝一声，脚步前探，剑锋如蛇信般刺向影狼的侧腹。剑刃划破空气，带着呼啸声穿透那层灰暗的皮毛，刺入血肉的钝响在酒馆中回荡。\n\n影狼发出一声低沉的哀鸣，身体猛地一颤，暗红的血顺着刀口渗出，染红了它那层本就斑驳的皮毛。它踉跄后退两步，喘息间鼻翼翕动，眼中闪过一丝恐惧与愤怒交织的光芒。\n\n**命中！** 造成 **3** 点伤害。影狼：6/12 HP。\n\n# 战斗叙事\n\n影狼的后腿猛然蹬地，整个身躯如离弦之箭朝你扑来，獠牙在酒馆昏黄的油灯下闪烁着寒光。你侧身一闪，锋利的爪风擦着你的衣襟呼啸而过。影狼扑空后在地上翻滚一圈，四肢在木质地板上刨出几道深深的划痕，木屑飞溅。\n\n它重新站稳，喘着粗气，猩红的眼睛死死盯着你，喉间发出低沉的威胁声。\n\n---\n\n**[ 命中/未命中 ]** ❌ 影狼的反击未能命中  \n**[ 伤害值 ]** 0点  \n**[ 玩家状态 ]** 9/22 HP（轻伤）\n【战斗状态】\n  ⚔️ 冒险者: [████░░░░░░] 9/22 HP\n  🗡️ 影狼: [█████░░░░░] 6/12 HP\n\n  敌人状态: 影狼\n  HP: 6/12 | AC: 11"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776202506.2753687,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 4] 你说道：\"去镇中心看看\"\n\n场景中的细节在你眼前展开..."
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_6",
+      "type": "beat_summary",
+      "content": "**Beat beat_6** (None)",
+      "timestamp": 1776202509.264704,
+      "metadata": {
+        "beat_id": "beat_6",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_8",
+      "type": "beat_summary",
+      "content": "**Beat beat_8** (None)",
+      "timestamp": 1776202512.2837543,
+      "metadata": {
+        "beat_id": "beat_8",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 酒馆\n========================================\n\n这里是一个酒馆类型的地点，玩家正在寻找一个酒馆\n\n🌤️ 酒馆中，炉火噼啪作响，热浪夹杂着酒香，角落里的窃窃私语，香料热红酒的甜香，，。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 8] 你说道：\"去酒馆找个位置坐下\"\n\n空气中弥漫着躁动不安的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_10",
+      "type": "beat_summary",
+      "content": "**Beat beat_10** (None)",
+      "timestamp": 1776202515.2876244,
+      "metadata": {
+        "beat_id": "beat_10",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 10] 你说道：\"我突然想跳舞\"\n\n空气中弥漫着躁动不安的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_12",
+      "type": "beat_summary",
+      "content": "**Beat beat_12** (None)",
+      "timestamp": 1776202518.2959132,
+      "metadata": {
+        "beat_id": "beat_12",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 酒馆\n========================================\n\n这里是一个酒馆类型的地点，玩家正在寻找一个酒馆\n\n🌤️ 酒馆中，炉火噼啪作响，炉火烘得人昏昏欲睡，木柴燃烧的噼啪声，香料热红酒的甜香，躁动不安，躁动不安。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 12] 你说道：\"离开酒馆，去街道上走走\"\n\n空气中弥漫着躁动不安的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_14",
+      "type": "beat_summary",
+      "content": "**Beat beat_14** (None)",
+      "timestamp": 1776202521.305105,
+      "metadata": {
+        "beat_id": "beat_14",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 14] 你说道：\"去市场逛逛\"\n\n空气中弥漫着躁动不安的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_16",
+      "type": "beat_summary",
+      "content": "**Beat beat_16** (None)",
+      "timestamp": 1776202524.3104124,
+      "metadata": {
+        "beat_id": "beat_16",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 森林\n========================================\n\n这里是一个森林类型的地点,玩家正在寻找一个森林\n\n🌤️ 森林中，幽暗的树冠覆盖，雾气中带着凉意，树叶沙沙作响，松脂的清香，充满生机。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 16] 你说道：\"去森林冒险\"\n\n空气中弥漫着充满生机的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_2",
+      "type": "beat_summary",
+      "content": "**Beat beat_2** (None)",
+      "timestamp": 1776203778.7942228,
+      "metadata": {
+        "beat_id": "beat_2",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_3",
+      "type": "beat_summary",
+      "content": "**Beat beat_3** (None)",
+      "timestamp": 1776203780.8098764,
+      "metadata": {
+        "beat_id": "beat_3",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 3] 你说道：\"去镇中心看看\"\n\n场景中的细节在你眼前展开..."
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776203782.8182802,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 酒馆\n========================================\n\n这里是一个酒馆类型的地点，玩家正在寻找一个酒馆\n\n🌤️ 酒馆中，窗外月光斜照，温暖如春，吟游诗人弹唱，烤肉的油烟味，，。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 4] 你说道：\"去酒馆找个位置坐下\"\n\n空气中弥漫着神秘低沉的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_5",
+      "type": "beat_summary",
+      "content": "**Beat beat_5** (None)",
+      "timestamp": 1776203784.8270836,
+      "metadata": {
+        "beat_id": "beat_5",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 5] 你说道：\"我突然想跳舞，在酒馆中央跳了起来\"\n\n空气中弥漫着神秘低沉的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_6",
+      "type": "beat_summary",
+      "content": "**Beat beat_6** (None)",
+      "timestamp": 1776203786.8361857,
+      "metadata": {
+        "beat_id": "beat_6",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 酒馆\n========================================\n\n这里是一个酒馆类型的地点，玩家正在寻找一个酒馆\n\n🌤️ 酒馆中，窗外月光斜照，温暖如春，酒杯碰撞的清脆声，烤肉的油烟味，神秘低沉，神秘低沉。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 6] 你说道：\"离开酒馆，去外面的街道走走\"\n\n空气中弥漫着神秘低沉的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_7",
+      "type": "beat_summary",
+      "content": "**Beat beat_7** (None)",
+      "timestamp": 1776203788.8306477,
+      "metadata": {
+        "beat_id": "beat_7",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 7] 你说道：\"去市场逛逛\"\n\n空气中弥漫着神秘低沉的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_8",
+      "type": "beat_summary",
+      "content": "**Beat beat_8** (None)",
+      "timestamp": 1776203790.8288722,
+      "metadata": {
+        "beat_id": "beat_8",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 森林\n========================================\n\n这里是一个森林类型的地点,玩家正在寻找一个森林\n\n🌤️ 森林中，幽暗的树冠覆盖，雾气中带着凉意，远处溪水流淌，腐叶的气息，神秘莫测。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 8] 你说道：\"去镇子外面的森林冒险\"\n\n空气中弥漫着阴森诡异的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_9",
+      "type": "beat_summary",
+      "content": "**Beat beat_9** (None)",
+      "timestamp": 1776203792.8447146,
+      "metadata": {
+        "beat_id": "beat_9",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n你的攻击激怒了影狼，它转身迎战，眼中满是杀意！\n\n========================================\n⚔️  战斗开始！\n========================================\n敌人: 影狼 (怪物)\nHP: 12 | AC: 11\n\n你的状态: HP 22/22 | AC 13\n========================================\n可用动作: 攻击 / 防御 / 技能 / 道具 / 逃跑\n\n\n[回合 9] 你说道：\"攻击野狼\"\n\n空气中弥漫着危机四伏的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_2",
+      "type": "beat_summary",
+      "content": "**Beat beat_2** (None)",
+      "timestamp": 1776203826.9416437,
+      "metadata": {
+        "beat_id": "beat_2",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_3",
+      "type": "beat_summary",
+      "content": "**Beat beat_3** (None)",
+      "timestamp": 1776203829.9443855,
+      "metadata": {
+        "beat_id": "beat_3",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 3] 你说道：\"去镇中心看看\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776203832.9435954,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 酒馆\n========================================\n\n这里是一个酒馆类型的地点，玩家正在寻找一个酒馆\n\n🌤️ 酒馆中，油灯忽明忽暗，热浪夹杂着酒香，角落里的窃窃私语，，神秘低沉，神秘低沉。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 4] 你说道：\"去酒馆找个位置坐下\"\n\n空气中弥漫着神秘低沉的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_5",
+      "type": "beat_summary",
+      "content": "**Beat beat_5** (None)",
+      "timestamp": 1776203835.942774,
+      "metadata": {
+        "beat_id": "beat_5",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 5] 你说道：\"我突然想跳舞，在酒馆中央跳了起来\"\n\n空气中弥漫着神秘低沉的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_6",
+      "type": "beat_summary",
+      "content": "**Beat beat_6** (None)",
+      "timestamp": 1776203838.944366,
+      "metadata": {
+        "beat_id": "beat_6",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 酒馆\n========================================\n\n这里是一个酒馆类型的地点，玩家正在寻找一个酒馆\n\n🌤️ 酒馆中，炉火噼啪作响，微凉的夜风从门缝渗入，角落里的窃窃私语，，神秘低沉，神秘低沉。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 6] 你说道：\"离开酒馆，去外面的街道走走\"\n\n空气中弥漫着暗流涌动的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_7",
+      "type": "beat_summary",
+      "content": "**Beat beat_7** (None)",
+      "timestamp": 1776203841.9503357,
+      "metadata": {
+        "beat_id": "beat_7",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 7] 你说道：\"去市场逛逛\"\n\n空气中弥漫着神秘低沉的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_8",
+      "type": "beat_summary",
+      "content": "**Beat beat_8** (None)",
+      "timestamp": 1776203844.9623356,
+      "metadata": {
+        "beat_id": "beat_8",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 森林\n========================================\n\n这里是一个森林类型的地点,玩家正在寻找一个森林\n\n🌤️ 森林中，斑驳阳光透过树叶，夜间的寒意，树叶沙沙作响，松脂的清香，神秘莫测。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 8] 你说道：\"去镇子外面的森林冒险\"\n\n空气中弥漫着宁静祥和的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_9",
+      "type": "beat_summary",
+      "content": "**Beat beat_9** (None)",
+      "timestamp": 1776203847.9724786,
+      "metadata": {
+        "beat_id": "beat_9",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n影狼发出低沉的咆哮，挡住了你的去路——战斗不可避免！\n\n========================================\n⚔️  战斗开始！\n========================================\n敌人: 影狼 (怪物)\nHP: 12 | AC: 11\n\n你的状态: HP 22/22 | AC 13\n========================================\n可用动作: 攻击 / 防御 / 技能 / 道具 / 逃跑\n\n\n[回合 9] 你说道：\"攻击野狼\"\n\n空气中弥漫着宁静祥和的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_2",
+      "type": "beat_summary",
+      "content": "**Beat beat_2** (None)",
+      "timestamp": 1776204175.338913,
+      "metadata": {
+        "beat_id": "beat_2",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n【村长】（village_elder）「让我想想...」\n\n\n[回合 2] 你说道：\"去镇中心广场看看有什么有趣的\"\n\n空气中弥漫着平静的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776204175.647623,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n【村长】（village_elder）「让我想想...」\n\n\n\n你抽出武器，影狼也亮出了獠牙。剑拔弩张！\n\n========================================\n⚔️  战斗开始！\n========================================\n敌人: 影狼 (怪物)\nHP: 12 | AC: 11\n\n你的状态: HP 22/22 | AC 13\n========================================\n可用动作: 攻击 / 防御 / 技能 / 道具 / 逃跑\n\n\n[回合 4] 你说道：\"和一个镇民聊天，打听最近有没有什么新鲜事\"\n\n空气中弥漫着平静的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_2",
+      "type": "beat_summary",
+      "content": "**Beat beat_2** (None)",
+      "timestamp": 1776206285.1800869,
+      "metadata": {
+        "beat_id": "beat_2",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 2] 你说道：\"去镇中心看看\"\n\n..."
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_3",
+      "type": "beat_summary",
+      "content": "**Beat beat_3** (None)",
+      "timestamp": 1776206287.1797028,
+      "metadata": {
+        "beat_id": "beat_3",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 3] 你说道：\"环顾四周\"\n\n..."
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776206289.1814313,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_3",
+      "type": "beat_summary",
+      "content": "**Beat beat_3** (None)",
+      "timestamp": 1776206482.2959433,
+      "metadata": {
+        "beat_id": "beat_3",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 森林\n========================================\n\n这里是一个森林类型的地点,玩家正在寻找一个森林\n\n🌤️ 森林中，磷火在黑暗中闪烁，湿气弥漫，鸟鸣啾啾，野花清香，充满生机。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 3] 你说道：\"查看周围环境\"\n\n空气中弥漫着神秘莫测的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776206482.720072,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_5",
+      "type": "beat_summary",
+      "content": "**Beat beat_5** (None)",
+      "timestamp": 1776206483.1362467,
+      "metadata": {
+        "beat_id": "beat_5",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 酒馆\n========================================\n\n这里是一个酒馆类型的地点，玩家正在寻找一个酒馆\n\n🌤️ 酒馆中，炉火噼啪作响，温暖如春，觥筹交错，陈年麦酒香，热闹欢快。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 5] 你说道：\"去酒馆\"\n\n场景中的细节在你眼前展开..."
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_6",
+      "type": "beat_summary",
+      "content": "**Beat beat_6** (None)",
+      "timestamp": 1776206483.557042,
+      "metadata": {
+        "beat_id": "beat_6",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 酒馆\n========================================\n\n这里是一个酒馆类型的地点，玩家正在寻找一个酒馆\n\n🌤️ 酒馆中，窗外月光斜照，微凉的夜风从门缝渗入，觥筹交错，陈年麦酒香，热闹欢快，热闹欢快。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 6] 你说道：\"进入酒馆\"\n\n空气中弥漫着热闹欢快的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_7",
+      "type": "beat_summary",
+      "content": "**Beat beat_7** (None)",
+      "timestamp": 1776206483.9851084,
+      "metadata": {
+        "beat_id": "beat_7",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_8",
+      "type": "beat_summary",
+      "content": "**Beat beat_8** (None)",
+      "timestamp": 1776206484.4064293,
+      "metadata": {
+        "beat_id": "beat_8",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n你抽出武器，影狼也亮出了獠牙。剑拔弩张！\n\n========================================\n⚔️  战斗开始！\n========================================\n敌人: 影狼 (怪物)\nHP: 12 | AC: 11\n\n你的状态: HP 22/22 | AC 13\n========================================\n可用动作: 攻击 / 防御 / 技能 / 道具 / 逃跑\n\n\n[回合 8] 你说道：\"打听消息\"\n\n空气中弥漫着热闹欢快的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_3",
+      "type": "beat_summary",
+      "content": "**Beat beat_3** (None)",
+      "timestamp": 1776207527.7270117,
+      "metadata": {
+        "beat_id": "beat_3",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 森林\n========================================\n\n这里是一个森林类型的地点,玩家正在寻找一个森林\n\n🌤️ 森林中，斑驳阳光透过树叶，雾气中带着凉意，风吹过树梢的呼啸，松脂的清香，神秘莫测。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 3] 你说道：\"查看周围环境\"\n\n空气中弥漫着神秘莫测的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776207528.1513069,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_5",
+      "type": "beat_summary",
+      "content": "**Beat beat_5** (None)",
+      "timestamp": 1776207528.5592399,
+      "metadata": {
+        "beat_id": "beat_5",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 酒馆\n========================================\n\n这里是一个酒馆类型的地点，玩家正在寻找一个酒馆\n\n🌤️ 酒馆中，窗外月光斜照，热浪夹杂着酒香，觥筹交错，烤肉的油烟味，躁动不安。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 5] 你说道：\"去酒馆\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_6",
+      "type": "beat_summary",
+      "content": "**Beat beat_6** (None)",
+      "timestamp": 1776207528.968961,
+      "metadata": {
+        "beat_id": "beat_6",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 酒馆\n========================================\n\n这里是一个酒馆类型的地点，玩家正在寻找一个酒馆\n\n🌤️ 酒馆中，炉火噼啪作响，，酒杯碰撞的清脆声，陈年麦酒香，慵懒惬意，慵懒惬意。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 6] 你说道：\"进入酒馆\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_7",
+      "type": "beat_summary",
+      "content": "**Beat beat_7** (None)",
+      "timestamp": 1776207529.3907995,
+      "metadata": {
+        "beat_id": "beat_7",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_8",
+      "type": "beat_summary",
+      "content": "**Beat beat_8** (None)",
+      "timestamp": 1776207529.8107746,
+      "metadata": {
+        "beat_id": "beat_8",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n你的攻击激怒了影狼，它转身迎战，眼中满是杀意！\n\n========================================\n⚔️  战斗开始！\n========================================\n敌人: 影狼 (怪物)\nHP: 12 | AC: 11\n\n你的状态: HP 22/22 | AC 13\n========================================\n可用动作: 攻击 / 防御 / 技能 / 道具 / 逃跑\n\n\n[回合 8] 你说道：\"打听消息\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_9",
+      "type": "beat_summary",
+      "content": "**Beat beat_9** (None)",
+      "timestamp": 1776207563.9246736,
+      "metadata": {
+        "beat_id": "beat_9",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "剑锋划破昏暗的酒馆空气，带着凛冽寒光直取影狼咽喉！你的剑刃如毒蛇般精准，在狼身扭动的瞬间切入它的前腿根部——利刃切开皮毛的触感清晰传来，鲜血迸溅在满是酒渍的木地板上。\n\n影狼发出一声凄厉的哀嚎，踉跄着向后退了两步，伤口处血液汩汩涌出，染红了周围的尘土。它龇着獠牙，凶光毕露的眼神中却闪过一丝惧意。\n\n命中！伤害值：8\n影狼：4/12 HP（轻伤）\n\n# 【回合 9】影狼的反击\n\n影狼后腿猛然蹬地，整个身躯如墨色闪电般反扑而来。你刚完成攻击还未收招，右肋门户大开——来不及格挡！尖锐的爪痕撕裂衣袍，三道血槽在肋间绽开。\n\n剧痛如火焰窜上脊背，你踉跄后退半步，撞翻了身后的木桌，酒杯碎裂一地。鲜血顺着指缝滴落在满是酒渍的地板上。\n\n**【命中】造成 4 点伤害，你当前生命值：18/22 HP**\n【战斗状态】\n  ⚔️ 冒险者: [████████░░] 18/22 HP\n  🗡️ 影狼: [███░░░░░░░] 4/12 HP\n\n  敌人状态: 影狼\n  HP: 4/12 | AC: 11"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_13",
+      "type": "beat_summary",
+      "content": "**Beat beat_13** (None)",
+      "timestamp": 1776207584.3442945,
+      "metadata": {
+        "beat_id": "beat_13",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "刀锋划破空气，带着破风声直取影狼的咽喉。\n\n它试图侧身闪避，但伤痕累累的身躯已经迟钝了半拍——你的刀刃精准地切入它的侧颈，割开一道深可见骨的伤口。\n\n影狼发出一声低沉的哀鸣，黑色的血液顺着毛皮淌下，染湿了脚边的木板。它的四肢开始颤抖，支撑不住庞大的身躯，轰然倒地，扬起一片灰尘。\n\n【命中】 | 【伤害: 4】\n\n⚔️ 影狼 倒下了！"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_14",
+      "type": "beat_summary",
+      "content": "**Beat beat_14** (None)",
+      "timestamp": 1776207584.4471593,
+      "metadata": {
+        "beat_id": "beat_14",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 14] 当前不在战斗中。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_15",
+      "type": "beat_summary",
+      "content": "**Beat beat_15** (None)",
+      "timestamp": 1776207584.5481389,
+      "metadata": {
+        "beat_id": "beat_15",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 15] 当前不在战斗中。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_16",
+      "type": "beat_summary",
+      "content": "**Beat beat_16** (None)",
+      "timestamp": 1776207584.6411366,
+      "metadata": {
+        "beat_id": "beat_16",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 16] 当前不在战斗中。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_17",
+      "type": "beat_summary",
+      "content": "**Beat beat_17** (None)",
+      "timestamp": 1776207584.7410636,
+      "metadata": {
+        "beat_id": "beat_17",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 17] 当前不在战斗中。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_15",
+      "type": "beat_summary",
+      "content": "**Beat beat_15** (None)",
+      "timestamp": 1776207584.8342083,
+      "metadata": {
+        "beat_id": "beat_15",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "硝烟在空气中缓缓消散。\n\n酒馆里一片狼藉——桌椅东倒西歪，酒杯碎裂的声音似乎还残留在耳边。你靠在吧台边缘，感受着肾上腺素逐渐退去后身体的颤抖。倒地的敌人在火光下显得格外安静，袖中露出几枚金币和一张折叠的纸条。\n\n远处传来酒杯碰撞的叮当声，幸存者们小心翼翼地从角落探出头来。烛火摇曳，你注意到吧台后的酒保正用惊恐的眼神看着你。\n\n空气中弥漫着木柴燃烧的焦味和淡淡的血腥气。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_17",
+      "type": "beat_summary",
+      "content": "**Beat beat_17** (None)",
+      "timestamp": 1776207584.9272356,
+      "metadata": {
+        "beat_id": "beat_17",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "狼嚎声戛然而止，影狼轰然倒地！30点XP的光芒环绕周身——你感受到了成长的力量。8枚金币叮当作响落入钱袋。战利品静静躺在地上：泛着微光的【COMMON】狼皮、【COMMON】治疗药水。距离下一级仅差20点XP，继续乘胜追击！"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_18",
+      "type": "beat_summary",
+      "content": "**Beat beat_18** (None)",
+      "timestamp": 1776207585.0193026,
+      "metadata": {
+        "beat_id": "beat_18",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 18] 你说道：\"防御\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_19",
+      "type": "beat_summary",
+      "content": "**Beat beat_19** (None)",
+      "timestamp": 1776207585.1142006,
+      "metadata": {
+        "beat_id": "beat_19",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 19] 你说道：\"使用道具\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_20",
+      "type": "beat_summary",
+      "content": "**Beat beat_20** (None)",
+      "timestamp": 1776207585.2071326,
+      "metadata": {
+        "beat_id": "beat_20",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 20] 你说道：\"继续探索\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_21",
+      "type": "beat_summary",
+      "content": "**Beat beat_21** (None)",
+      "timestamp": 1776207585.3006935,
+      "metadata": {
+        "beat_id": "beat_21",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 21] 你说道：\"回镇上\"\n\n空气中弥漫着神秘低沉的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_19",
+      "type": "beat_summary",
+      "content": "**Beat beat_19** (None)",
+      "timestamp": 1776207585.69481,
+      "metadata": {
+        "beat_id": "beat_19",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n==================================================\n🏪 商店 - 月光杂货铺\n==================================================\n💰 你的金币: 18\n--------------------------------------------------\n  暂无商品\n--------------------------------------------------\n💡 输入「买 + 物品名」即可购买（如：买治疗药水）\n=================================================="
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_20",
+      "type": "beat_summary",
+      "content": "**Beat beat_20** (None)",
+      "timestamp": 1776207586.1166072,
+      "metadata": {
+        "beat_id": "beat_20",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n==================================================\n📊 回合 20  |  📍 酒馆  |  🎮 探索模式\n--------------------------------------------------\n❤️  HP: 18/22  🛡️ AC: 12  ⚔️ Lv.1\n🌟 XP: 30  🪙 Gold: 18  🎒 物品: 4 件\n🧙 角色: 体验官测试  人类 战士\n   近来获得: 生锈长剑, 治疗药水, 狼皮, 治疗药水\n=================================================="
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_21",
+      "type": "beat_summary",
+      "content": "**Beat beat_21** (None)",
+      "timestamp": 1776207586.5410523,
+      "metadata": {
+        "beat_id": "beat_21",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 21] 你说道：\"查看背包\"\n\n空气中弥漫着暗流涌动的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_22",
+      "type": "beat_summary",
+      "content": "**Beat beat_22** (None)",
+      "timestamp": 1776207586.9656177,
+      "metadata": {
+        "beat_id": "beat_22",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 22] 你说道：\"查看任务\"\n\n空气中弥漫着暗流涌动的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_23",
+      "type": "beat_summary",
+      "content": "**Beat beat_23** (None)",
+      "timestamp": 1776207587.3924382,
+      "metadata": {
+        "beat_id": "beat_23",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 23] 你说道：\"四处走走\"\n\n空气中弥漫着暗流涌动的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_24",
+      "type": "beat_summary",
+      "content": "**Beat beat_24** (None)",
+      "timestamp": 1776207587.8146317,
+      "metadata": {
+        "beat_id": "beat_24",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_25",
+      "type": "beat_summary",
+      "content": "**Beat beat_25** (None)",
+      "timestamp": 1776207588.2255604,
+      "metadata": {
+        "beat_id": "beat_25",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 酒馆\n========================================\n\n这里是一个酒馆类型的地点，玩家正在寻找一个酒馆\n\n🌤️ 酒馆中，油灯忽明忽暗，炉火烘得人昏昏欲睡，觥筹交错，壁炉的烟熏香，躁动不安，躁动不安。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 25] 你说道：\"去酒馆喝酒\"\n\n空气中弥漫着躁动不安的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_2",
+      "type": "beat_summary",
+      "content": "**Beat beat_2** (None)",
+      "timestamp": 1776208321.4792333,
+      "metadata": {
+        "beat_id": "beat_2",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 2] 你说道：\"去镇中心看看\"\n\n..."
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_3",
+      "type": "beat_summary",
+      "content": "**Beat beat_3** (None)",
+      "timestamp": 1776208323.473924,
+      "metadata": {
+        "beat_id": "beat_3",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 3] 你说道：\"环顾四周\"\n\n..."
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776208325.4748943,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_3",
+      "type": "beat_summary",
+      "content": "**Beat beat_3** (None)",
+      "timestamp": 1776208518.969429,
+      "metadata": {
+        "beat_id": "beat_3",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 3] 你说道：\"环顾四周\"\n\n..."
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776208522.9840932,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_5",
+      "type": "beat_summary",
+      "content": "**Beat beat_5** (None)",
+      "timestamp": 1776208579.5394313,
+      "metadata": {
+        "beat_id": "beat_5",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n【老灰】近日村中倒也无甚大事。只是夜里偶有异响传出，村民私下议论纷纷，却也不愿深究。\n\n\n[回合 5] 你说道：\"问路人这里最近有什么新鲜事\"\n\n..."
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_16",
+      "type": "beat_summary",
+      "content": "**Beat beat_16** (None)",
+      "timestamp": 1776208579.6488838,
+      "metadata": {
+        "beat_id": "beat_16",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_17",
+      "type": "beat_summary",
+      "content": "**Beat beat_17** (None)",
+      "timestamp": 1776208579.7423856,
+      "metadata": {
+        "beat_id": "beat_17",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n【老灰】老灰从柜台下取出一只陶杯，倾倒出些许浑浊的麦酒递来。*接过硬币时指尖轻点桌面*“远道而来，不妨先歇歇脚。”\n\n\n[回合 17] 你说道：\"点一杯啤酒\"\n\n..."
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_18",
+      "type": "beat_summary",
+      "content": "**Beat beat_18** (None)",
+      "timestamp": 1776208579.8350914,
+      "metadata": {
+        "beat_id": "beat_18",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 酒馆\n========================================\n\n这里是一个酒馆类型的地点，玩家正在寻找一个酒馆\n\n🌤️ 酒馆中，油灯忽明忽暗，炉火烘得人昏昏欲睡，酒杯碰撞的清脆声，陈年麦酒香，躁动不安。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 18] 你说道：\"去酒馆\"\n\n空气中弥漫着热闹欢快的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_19",
+      "type": "beat_summary",
+      "content": "**Beat beat_19** (None)",
+      "timestamp": 1776208579.9297392,
+      "metadata": {
+        "beat_id": "beat_19",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_20",
+      "type": "beat_summary",
+      "content": "**Beat beat_20** (None)",
+      "timestamp": 1776208580.0309887,
+      "metadata": {
+        "beat_id": "beat_20",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n==================================================\n📊 回合 20  |  📍 酒馆  |  🎮 探索模式\n--------------------------------------------------\n❤️  HP: 22/22  🛡️ AC: 12  ⚔️ Lv.1\n🌟 XP: 0  🪙 Gold: 10  🎒 物品: 2 件\n🧙 角色: 体验官  人类 战士\n   近来获得: 生锈长剑, 治疗药水\n=================================================="
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_21",
+      "type": "beat_summary",
+      "content": "**Beat beat_21** (None)",
+      "timestamp": 1776208580.1306174,
+      "metadata": {
+        "beat_id": "beat_21",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 21] 你说道：\"查看背包\"\n\n空气中弥漫着躁动不安的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_22",
+      "type": "beat_summary",
+      "content": "**Beat beat_22** (None)",
+      "timestamp": 1776208580.2373574,
+      "metadata": {
+        "beat_id": "beat_22",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 22] 你说道：\"去市场逛逛\"\n\n空气中弥漫着躁动不安的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_23",
+      "type": "beat_summary",
+      "content": "**Beat beat_23** (None)",
+      "timestamp": 1776208580.3526263,
+      "metadata": {
+        "beat_id": "beat_23",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 23] 你说道：\"看看有没有任务可以接\"\n\n空气中弥漫着躁动不安的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_24",
+      "type": "beat_summary",
+      "content": "**Beat beat_24** (None)",
+      "timestamp": 1776208580.458996,
+      "metadata": {
+        "beat_id": "beat_24",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 24] 你说道：\"去冒险者公会\"\n\n空气中弥漫着躁动不安的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_25",
+      "type": "beat_summary",
+      "content": "**Beat beat_25** (None)",
+      "timestamp": 1776208580.5808432,
+      "metadata": {
+        "beat_id": "beat_25",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 25] 你说道：\"去镇外看看\"\n\n空气中弥漫着躁动不安的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_26",
+      "type": "beat_summary",
+      "content": "**Beat beat_26** (None)",
+      "timestamp": 1776208580.6946762,
+      "metadata": {
+        "beat_id": "beat_26",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 26] 你说道：\"调查树林里的动静\"\n\n空气中弥漫着躁动不安的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_27",
+      "type": "beat_summary",
+      "content": "**Beat beat_27** (None)",
+      "timestamp": 1776208580.806591,
+      "metadata": {
+        "beat_id": "beat_27",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 27] 你说道：\"主动寻找敌人\"\n\n空气中弥漫着躁动不安的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_28",
+      "type": "beat_summary",
+      "content": "**Beat beat_28** (None)",
+      "timestamp": 1776208580.9184177,
+      "metadata": {
+        "beat_id": "beat_28",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 28] 你说道：\"休息一下\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_19",
+      "type": "beat_summary",
+      "content": "**Beat beat_19** (None)",
+      "timestamp": 1776208583.117935,
+      "metadata": {
+        "beat_id": "beat_19",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 19] 你说道：\"继续探索\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_3",
+      "type": "beat_summary",
+      "content": "**Beat beat_3** (None)",
+      "timestamp": 1776208724.7550168,
+      "metadata": {
+        "beat_id": "beat_3",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 3] 你说道：\"环顾四周\"\n\n..."
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776208727.749333,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776209674.4226904,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 4] 你说道：\"去镇中心看看\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_6",
+      "type": "beat_summary",
+      "content": "**Beat beat_6** (None)",
+      "timestamp": 1776209678.435306,
+      "metadata": {
+        "beat_id": "beat_6",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_8",
+      "type": "beat_summary",
+      "content": "**Beat beat_8** (None)",
+      "timestamp": 1776209682.4492052,
+      "metadata": {
+        "beat_id": "beat_8",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 酒馆\n========================================\n\n这里是一个酒馆类型的地点，玩家正在寻找一个酒馆\n\n🌤️ 酒馆中，昏黄烛光摇曳，热浪夹杂着酒香，酒杯碰撞的清脆声，烤肉的油烟味，慵懒惬意，慵懒惬意。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 8] 你说道：\"去酒馆找个位置坐下\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_10",
+      "type": "beat_summary",
+      "content": "**Beat beat_10** (None)",
+      "timestamp": 1776209686.4667497,
+      "metadata": {
+        "beat_id": "beat_10",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 10] 你说道：\"我突然想跳舞\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_12",
+      "type": "beat_summary",
+      "content": "**Beat beat_12** (None)",
+      "timestamp": 1776209690.4911017,
+      "metadata": {
+        "beat_id": "beat_12",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 酒馆\n========================================\n\n这里是一个酒馆类型的地点，玩家正在寻找一个酒馆\n\n🌤️ 酒馆中，昏黄烛光摇曳，微凉的夜风从门缝渗入，酒杯碰撞的清脆声，烤肉的油烟味，慵懒惬意，慵懒惬意。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 12] 你说道：\"离开酒馆，去街道上走走\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_14",
+      "type": "beat_summary",
+      "content": "**Beat beat_14** (None)",
+      "timestamp": 1776209694.489537,
+      "metadata": {
+        "beat_id": "beat_14",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 14] 你说道：\"去市场逛逛\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_16",
+      "type": "beat_summary",
+      "content": "**Beat beat_16** (None)",
+      "timestamp": 1776209698.4905124,
+      "metadata": {
+        "beat_id": "beat_16",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 森林\n========================================\n\n这里是一个森林类型的地点,玩家正在寻找一个森林\n\n🌤️ 森林中，磷火在黑暗中闪烁，清凉宜人，远处溪水流淌，腐叶的气息，神秘莫测。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 16] 你说道：\"去森林冒险\"\n\n空气中弥漫着充满生机的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_2",
+      "type": "beat_summary",
+      "content": "**Beat beat_2** (None)",
+      "timestamp": 1776209782.0299914,
+      "metadata": {
+        "beat_id": "beat_2",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 2] 你说道：\"找个位置坐下，观察周围的人\"\n\n空气中弥漫着暗流涌动的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_3",
+      "type": "beat_summary",
+      "content": "**Beat beat_3** (None)",
+      "timestamp": 1776209786.041035,
+      "metadata": {
+        "beat_id": "beat_3",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776209790.044283,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n影狼发出低沉的咆哮，挡住了你的去路——战斗不可避免！\n\n========================================\n⚔️  战斗开始！\n========================================\n敌人: 影狼 (怪物)\nHP: 12 | AC: 11\n\n你的状态: HP 22/22 | AC 13\n========================================\n可用动作: 攻击 / 防御 / 技能 / 道具 / 逃跑\n\n\n[回合 4] 你说道：\"向酒保打听镇子里的情况\"\n\n空气中弥漫着暗流涌动的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_2",
+      "type": "beat_summary",
+      "content": "**Beat beat_2** (None)",
+      "timestamp": 1776209902.3286471,
+      "metadata": {
+        "beat_id": "beat_2",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 2] 你说道：\"找个位置坐下，观察周围的人\"\n\n空气中弥漫着神秘低沉的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_3",
+      "type": "beat_summary",
+      "content": "**Beat beat_3** (None)",
+      "timestamp": 1776209907.3424637,
+      "metadata": {
+        "beat_id": "beat_3",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776209912.3544836,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n影狼发出低沉的咆哮，挡住了你的去路——战斗不可避免！\n\n========================================\n⚔️  战斗开始！\n========================================\n敌人: 影狼 (怪物)\nHP: 12 | AC: 11\n\n你的状态: HP 22/22 | AC 13\n========================================\n可用动作: 攻击 / 防御 / 技能 / 道具 / 逃跑\n\n\n[回合 4] 你说道：\"向酒保打听镇子里的情况\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776210217.1378145,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 4] 你说道：\"去镇中心看看\"\n\n场景中的细节在你眼前展开..."
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_6",
+      "type": "beat_summary",
+      "content": "**Beat beat_6** (None)",
+      "timestamp": 1776210221.1607978,
+      "metadata": {
+        "beat_id": "beat_6",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_8",
+      "type": "beat_summary",
+      "content": "**Beat beat_8** (None)",
+      "timestamp": 1776210225.158719,
+      "metadata": {
+        "beat_id": "beat_8",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 酒馆\n========================================\n\n这里是一个酒馆类型的地点，玩家正在寻找一个酒馆\n\n🌤️ 酒馆中，窗外月光斜照，热浪夹杂着酒香，酒杯碰撞的清脆声，陈年麦酒香，暗流涌动，暗流涌动。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 8] 你说道：\"去酒馆找个位置坐下\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_10",
+      "type": "beat_summary",
+      "content": "**Beat beat_10** (None)",
+      "timestamp": 1776210229.1694143,
+      "metadata": {
+        "beat_id": "beat_10",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 10] 你说道：\"我突然想跳舞\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_12",
+      "type": "beat_summary",
+      "content": "**Beat beat_12** (None)",
+      "timestamp": 1776210233.1770055,
+      "metadata": {
+        "beat_id": "beat_12",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 酒馆\n========================================\n\n这里是一个酒馆类型的地点，玩家正在寻找一个酒馆\n\n🌤️ 酒馆中，炉火噼啪作响，微凉的夜风从门缝渗入，酒杯碰撞的清脆声，陈年麦酒香，慵懒惬意，慵懒惬意。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 12] 你说道：\"离开酒馆，去街道上走走\"\n\n空气中弥漫着神秘低沉的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_14",
+      "type": "beat_summary",
+      "content": "**Beat beat_14** (None)",
+      "timestamp": 1776210237.1745842,
+      "metadata": {
+        "beat_id": "beat_14",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 14] 你说道：\"去市场逛逛\"\n\n空气中弥漫着神秘低沉的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_16",
+      "type": "beat_summary",
+      "content": "**Beat beat_16** (None)",
+      "timestamp": 1776210241.18297,
+      "metadata": {
+        "beat_id": "beat_16",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 森林\n========================================\n\n这里是一个森林类型的地点,玩家正在寻找一个森林\n\n🌤️ 森林中，雾气中透出微光，夜间的寒意，鸟鸣啾啾，雨后森林的清新，充满生机。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 16] 你说道：\"去森林冒险\"\n\n空气中弥漫着阴森诡异的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_3",
+      "type": "beat_summary",
+      "content": "**Beat beat_3** (None)",
+      "timestamp": 1776210275.2355022,
+      "metadata": {
+        "beat_id": "beat_3",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 3] 你说道：\"环顾四周\"\n\n..."
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776210278.2409036,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_2",
+      "type": "beat_summary",
+      "content": "**Beat beat_2** (None)",
+      "timestamp": 1776210602.1622987,
+      "metadata": {
+        "beat_id": "beat_2",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 2] 你说道：\"找个位置坐下，观察周围的人\"\n\n空气中弥漫着躁动不安的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_3",
+      "type": "beat_summary",
+      "content": "**Beat beat_3** (None)",
+      "timestamp": 1776210607.1661983,
+      "metadata": {
+        "beat_id": "beat_3",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776210612.1744306,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n影狼发出低沉的咆哮，挡住了你的去路——战斗不可避免！\n\n========================================\n⚔️  战斗开始！\n========================================\n敌人: 影狼 (怪物)\nHP: 12 | AC: 11\n\n你的状态: HP 22/22 | AC 13\n========================================\n可用动作: 攻击 / 防御 / 技能 / 道具 / 逃跑\n\n\n[回合 4] 你说道：\"向酒保打听镇子里的情况\"\n\n空气中弥漫着躁动不安的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_2",
+      "type": "beat_summary",
+      "content": "**Beat beat_2** (None)",
+      "timestamp": 1776210848.7469206,
+      "metadata": {
+        "beat_id": "beat_2",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 2] 你说道：\"找个位置坐下，观察周围的人\"\n\n空气中弥漫着暗流涌动的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_3",
+      "type": "beat_summary",
+      "content": "**Beat beat_3** (None)",
+      "timestamp": 1776210853.7613761,
+      "metadata": {
+        "beat_id": "beat_3",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776210858.767517,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n影狼发出低沉的咆哮，挡住了你的去路——战斗不可避免！\n\n========================================\n⚔️  战斗开始！\n========================================\n敌人: 影狼 (怪物)\nHP: 12 | AC: 11\n\n你的状态: HP 22/22 | AC 13\n========================================\n可用动作: 攻击 / 防御 / 技能 / 道具 / 逃跑\n\n\n[回合 4] 你说道：\"向酒保打听镇子里的情况\"\n\n空气中弥漫着热闹欢快的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_5",
+      "type": "beat_summary",
+      "content": "**Beat beat_5** (None)",
+      "timestamp": 1776210917.8347073,
+      "metadata": {
+        "beat_id": "beat_5",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "你的剑锋划破空气，直取影狼的咽喉。然而那双幽绿的瞳孔骤然收缩——影狼的身形诡异地一拧，你的剑刃仅切下一撮银灰色的毛发。\n\n它发出低沉的嘲笑，后腿一蹬，整个身躯如流水般滑开两步，重新与你拉开距离。\n\n空气中弥漫着松脂与血腥混杂的气味。\n\n**【命中/未命中】** 未命中！\n**【造成伤害】** 0点\n\n影狼的眼睛闪过狡黠的光芒，它趁着你收刀的瞬间猛然反扑！利爪撕裂空气，直取你的咽喉。\n\n但你的身体比思维更快——侧身一闪，肩膀擦过冰冷的爪尖，堪堪避开这致命一击。影狼扑空的身体踉跄前冲，你顺势一脚踹在它的侧腹，将它踹得倒飞出去。\n\n它愤怒地落在地上，喉间发出低沉的咆哮，鲜血从嘴角渗出。\n\n**【命中/未命中】** 未命中\n**【伤害值】** 0点\n**【你的HP】** 22/22\n【战斗状态】\n  ⚔️ 冒险者: [██████████] 22/22 HP\n  🗡️ 影狼: [██████████] 12/12 HP\n\n  敌人状态: 影狼\n  HP: 12/12 | AC: 11"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_2",
+      "type": "beat_summary",
+      "content": "**Beat beat_2** (None)",
+      "timestamp": 1776211362.5078294,
+      "metadata": {
+        "beat_id": "beat_2",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n[NPC] 一个身影回应道：\"有什么事？\"\n\n\n\n影狼发出低沉的咆哮，挡住了你的去路——战斗不可避免！\n\n========================================\n⚔️  战斗开始！\n========================================\n敌人: 影狼 (怪物)\nHP: 12 | AC: 11\n\n你的状态: HP 22/22 | AC 13\n========================================\n可用动作: 攻击 / 防御 / 技能 / 道具 / 逃跑\n\n\n[回合 2] 你说道：\"和镇子里的人打招呼\"\n\n空气中弥漫着神秘低沉的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_3",
+      "type": "beat_summary",
+      "content": "**Beat beat_3** (None)",
+      "timestamp": 1776211362.605761,
+      "metadata": {
+        "beat_id": "beat_3",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "剑锋划破昏暗的空气，精准地切入影狼的身躯。那怪物发出一声凄厉的嗥叫，爪子在空中胡乱挥舞，却已无法阻止利刃撕裂它的皮肉。深色的血液溅洒在木质地板上，空气中弥漫着腥甜的气息。影狼踉跄后退，灰白的毛发下露出一道触目惊心的伤口，伤口周围的皮毛被鲜血染成了暗红色。它的呼吸变得急促而紊乱，显然这一击让它受了不轻的伤。\n\n**命中** - 伤害: 5点\n**影狼状态**: 7/12 HP (轻伤)\n\n[回合 3][影狼的反击] 影狼狠狠咬下你，被敏捷地躲开！\n  🎲 攻击投掷: 8 vs AC 13 → 未命中\n【战斗状态】\n  ⚔️ 冒险者: [██████████] 22/22 HP\n  🗡️ 影狼: [█████░░░░░] 7/12 HP\n\n  敌人状态: 影狼\n  HP: 7/12 | AC: 11"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776211362.7013783,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 4][你的攻击] 你用力劈向影狼！\n  🎲 攻击投掷: 19 vs AC 11 → 命中！\n  💥 造成 4 点伤害！ 影狼 愤怒地瞪着你。\n\n【影狼 战术】影狼受了伤，摆出防御姿态，蓄势待发！\n【战斗状态】\n  ⚔️ 冒险者: [██████████] 22/22 HP\n  🗡️ 影狼: [██░░░░░░░░] 3/12 HP 🛡️\n\n  敌人状态: 影狼\n  HP: 3/12 | AC: 11\n【战斗状态】\n  ⚔️ 冒险者: [██████████] 22/22 HP\n  🗡️ 影狼: [██░░░░░░░░] 3/12 HP 🛡️\n\n  敌人状态: 影狼\n  HP: 3/12 | AC: 11"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_5",
+      "type": "beat_summary",
+      "content": "**Beat beat_5** (None)",
+      "timestamp": 1776211386.751187,
+      "metadata": {
+        "beat_id": "beat_5",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 5][你的攻击] 你狠狠击中影狼！\n  🎲 攻击投掷: 14 vs AC 11 → 命中！\n  💥 造成 3 点伤害！ 影狼 鲜血飞溅。\n⚔️ 影狼 倒下了！\n\n⚔️ 影狼 倒下了！"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_6",
+      "type": "beat_summary",
+      "content": "**Beat beat_6** (None)",
+      "timestamp": 1776211386.8590016,
+      "metadata": {
+        "beat_id": "beat_6",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 6] 当前不在战斗中。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_7",
+      "type": "beat_summary",
+      "content": "**Beat beat_7** (None)",
+      "timestamp": 1776211386.9539206,
+      "metadata": {
+        "beat_id": "beat_7",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 7] 当前不在战斗中。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_8",
+      "type": "beat_summary",
+      "content": "**Beat beat_8** (None)",
+      "timestamp": 1776211387.0484679,
+      "metadata": {
+        "beat_id": "beat_8",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 8] 当前不在战斗中。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_8",
+      "type": "beat_summary",
+      "content": "**Beat beat_8** (None)",
+      "timestamp": 1776211387.1443126,
+      "metadata": {
+        "beat_id": "beat_8",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n⚔️ 战斗结束！你获得了胜利！\n\n你回到酒馆，周围恢复了平静..."
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_8",
+      "type": "beat_summary",
+      "content": "**Beat beat_8** (None)",
+      "timestamp": 1776211387.2551825,
+      "metadata": {
+        "beat_id": "beat_8",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "狼血滴落在枯叶上，影狼的哀鸣戛然而止。你弯腰拾起那张【普通】狼皮，毛色银灰，质地坚韧。11枚金币随动作叮当作响落入袋中。30点经验的感悟如电流窜遍全身——距离下一次突破，只差20点！"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_9",
+      "type": "beat_summary",
+      "content": "**Beat beat_9** (None)",
+      "timestamp": 1776211387.3824823,
+      "metadata": {
+        "beat_id": "beat_9",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 9] 你说道：\"我突然想跳舞\"\n\n空气中弥漫着神秘低沉的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_10",
+      "type": "beat_summary",
+      "content": "**Beat beat_10** (None)",
+      "timestamp": 1776211387.4994643,
+      "metadata": {
+        "beat_id": "beat_10",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 10] 你说道：\"我尝试翻越城墙\"\n\n空气中弥漫着神秘低沉的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_11",
+      "type": "beat_summary",
+      "content": "**Beat beat_11** (None)",
+      "timestamp": 1776211387.9487646,
+      "metadata": {
+        "beat_id": "beat_11",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 11] 你说道：\"返回酒馆休息\"\n\n空气中弥漫着神秘低沉的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_12",
+      "type": "beat_summary",
+      "content": "**Beat beat_12** (None)",
+      "timestamp": 1776211388.7726872,
+      "metadata": {
+        "beat_id": "beat_12",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 12] 你说道：\"去市场逛逛\"\n\n空气中弥漫着神秘低沉的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_2",
+      "type": "beat_summary",
+      "content": "**Beat beat_2** (None)",
+      "timestamp": 1776211769.4992306,
+      "metadata": {
+        "beat_id": "beat_2",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n[NPC] 一个身影回应道：\"有什么事？\"\n\n\n\n你的攻击激怒了影狼，它转身迎战，眼中满是杀意！\n\n========================================\n⚔️  战斗开始！\n========================================\n敌人: 影狼 (怪物)\nHP: 12 | AC: 11\n\n你的状态: HP 22/22 | AC 13\n========================================\n可用动作: 攻击 / 防御 / 技能 / 道具 / 逃跑\n\n\n[回合 2] 你说道：\"和镇子里的人打招呼\"\n\n场景中的细节在你眼前展开..."
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_3",
+      "type": "beat_summary",
+      "content": "**Beat beat_3** (None)",
+      "timestamp": 1776211781.0011368,
+      "metadata": {
+        "beat_id": "beat_3",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "木桌翻倒，酒杯碎裂，你的剑刃划破昏暗的空气，直取影狼的咽喉。\n\n那畜生侧身闪避，但你的剑势太快——刀锋从它的前肩擦过，皮毛炸开，血珠在空气中飞溅。影狼闷哼一声，肌肉撕裂的疼痛让它眼眶泛红，四肢微颤却仍死死盯着你，獠牙间溢出混着唾沫的低吼。\n\n后腿一蹬，它强撑着稳住身形，伤口处淌下的鲜血染红了地上的木屑。\n\n**命中！造成 3 点伤害。影狼：9/12 HP**\n\n# 【战斗叙事】酒馆 - 回合3\n\n你的剑锋划破空气的瞬间，影狼的眼眸骤然收缩——那抹幽绿中闪过狡黠。它没有闪避，反而压低身躯，趁你招式用老的空隙猛然侧身扑来！\n\n寒光闪烁的利爪撕裂你的皮甲，三道深深的血痕从肋下绽开。剧痛如电流般窜遍全身，你的脚步踉跄后退，撞翻了身后摇晃的木桌，酒杯与残羹飞溅一地。鲜血顺着腰侧缓缓淌下，染红了脚边的锯末。\n\n> **【命中】** AC 13 vs 攻击投掷 21  \n> **【伤害】** 3 点  \n> **【状态】** 19/22 HP（-3）\n【战斗状态】\n  ⚔️ 冒险者: [████████░░] 19/22 HP\n  🗡️ 影狼: [███████░░░] 9/12 HP\n\n  敌人状态: 影狼\n  HP: 9/12 | AC: 11"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776211781.1222186,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "剑锋划破空气，银光闪烁。\n\n影狼发出最后一声凄厉的哀嚎，钢铁般的利爪想要格挡，却因失血过多而迟缓。你的剑刃精准地切入它毛皮下的肌肉，深深没入侧腹。滚烫的狼血喷涌而出，溅洒在酒馆斑驳的木地板上，空气中弥漫起浓烈的铁锈味。\n\n影狼踉跄后退，浑浊的绿瞳中满是恐惧与不甘。它的四足颤抖着，伤口处血液汩汩流淌，染红了它残破的皮毛。\n\n**命中！伤害：8点 | 影狼剩余HP：1/12**\n\n【影狼 战术】影狼受了伤，摆出防御姿态，蓄势待发！\n【战斗状态】\n  ⚔️ 冒险者: [████████░░] 19/22 HP\n  🗡️ 影狼: [░░░░░░░░░░] 1/12 HP 🛡️\n\n  敌人状态: 影狼\n  HP: 1/12 | AC: 11\n【战斗状态】\n  ⚔️ 冒险者: [████████░░] 19/22 HP\n  🗡️ 影狼: [░░░░░░░░░░] 1/12 HP 🛡️\n\n  敌人状态: 影狼\n  HP: 1/12 | AC: 11"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_5",
+      "type": "beat_summary",
+      "content": "**Beat beat_5** (None)",
+      "timestamp": 1776211781.219086,
+      "metadata": {
+        "beat_id": "beat_5",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "你的剑刃划破空气，银光直取影狼咽喉！\n\n然而这头野兽展现出惊人的反应——它的身影一扭，黑色皮毛擦过你剑锋，火星四溅。你感到手腕传来一阵酥麻，攻击落空的空挥让你踉跄半步。\n\n影狼趁机后撤两步，血红的眼睛死死盯着你，喉间滚动着低沉的嘶吼。它的侧腹仍在淌血，呼吸愈发粗重，却仍强撑着露出獠牙。\n\n【命中/未命中：未命中 | 伤害：0点】\n\n影狼（1/12 HP）仍摇摇欲坠地站立，胜负就在一线之间。\n\n【影狼 战术】影狼受了伤，摆出防御姿态，蓄势待发！\n【战斗状态】\n  ⚔️ 冒险者: [████████░░] 19/22 HP\n  🗡️ 影狼: [░░░░░░░░░░] 1/12 HP 🛡️\n\n  敌人状态: 影狼\n  HP: 1/12 | AC: 11\n【战斗状态】\n  ⚔️ 冒险者: [████████░░] 19/22 HP\n  🗡️ 影狼: [░░░░░░░░░░] 1/12 HP 🛡️\n\n  敌人状态: 影狼\n  HP: 1/12 | AC: 11"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_6",
+      "type": "beat_summary",
+      "content": "**Beat beat_6** (None)",
+      "timestamp": 1776211781.317387,
+      "metadata": {
+        "beat_id": "beat_6",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "刀锋划破空气，带着你的怒火直取影狼咽喉。\n\n然而这头野兽的本能超乎想象——它的身影在你刀刃触及的瞬间骤然模糊，仿佛融入了酒馆昏暗的烛光。刀锋只斩过一片残影，带起几缕飘散的黑色皮毛。\n\n影狼踉跄后退，血红的眼睛仍死死盯着你，胸膛剧烈起伏。三条深可见骨的伤口让它每一步都踉跄不稳，却仍未倒下。\n\n**【未命中】**\n**伤害：0**\n\n酒馆地板上，它的血迹延伸成一条断断续续的痕迹。\n\n【影狼 战术】影狼受了伤，摆出防御姿态，蓄势待发！\n【战斗状态】\n  ⚔️ 冒险者: [████████░░] 19/22 HP\n  🗡️ 影狼: [░░░░░░░░░░] 1/12 HP 🛡️\n\n  敌人状态: 影狼\n  HP: 1/12 | AC: 11\n【战斗状态】\n  ⚔️ 冒险者: [████████░░] 19/22 HP\n  🗡️ 影狼: [░░░░░░░░░░] 1/12 HP 🛡️\n\n  敌人状态: 影狼\n  HP: 1/12 | AC: 11"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_7",
+      "type": "beat_summary",
+      "content": "**Beat beat_7** (None)",
+      "timestamp": 1776211801.8656921,
+      "metadata": {
+        "beat_id": "beat_7",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "刀锋划破空气，直取影狼咽喉。它本能地侧身闪避，但伤痕累累的身躯已跟不上速度——刀刃切入侧颈，鲜血喷涌。\n\n影狼踉跄后退，后腿一软跪倒在地，呜咽声中满是哀鸣。\n\n**命中！造成 1 点伤害**\n\n⚔️ 影狼 倒下了！"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_8",
+      "type": "beat_summary",
+      "content": "**Beat beat_8** (None)",
+      "timestamp": 1776211801.9812632,
+      "metadata": {
+        "beat_id": "beat_8",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 8] 当前不在战斗中。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_9",
+      "type": "beat_summary",
+      "content": "**Beat beat_9** (None)",
+      "timestamp": 1776211802.082299,
+      "metadata": {
+        "beat_id": "beat_9",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 9] 当前不在战斗中。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_10",
+      "type": "beat_summary",
+      "content": "**Beat beat_10** (None)",
+      "timestamp": 1776211802.1793685,
+      "metadata": {
+        "beat_id": "beat_10",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 10] 当前不在战斗中。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_10",
+      "type": "beat_summary",
+      "content": "**Beat beat_10** (None)",
+      "timestamp": 1776211802.3000758,
+      "metadata": {
+        "beat_id": "beat_10",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "酒馆里弥漫着战斗后的尘土气息。\n\n刚才激烈的交锋震落了天花板上的蛛网，酒杯碎了一地，桌椅东倒西歪。阳光从破损的窗户斜射进来，照亮了飘浮在空气中的尘埃。\n\n你的呼吸渐渐平复。敌人的尸体旁边散落着几枚银币和一张对折的羊皮纸——上面潦草地画着某种符号。\n\n吧台后瑟瑟发抖的酒保探出半个脑袋，眼里满是惊恐与庆幸。酒馆外，街道上恢复了往常的喧嚣，仿佛这里什么都没发生过。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_10",
+      "type": "beat_summary",
+      "content": "**Beat beat_10** (None)",
+      "timestamp": 1776211802.450484,
+      "metadata": {
+        "beat_id": "beat_10",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "银月洒落在影狼消散的躯壳上，你紧握武器的手还微微发烫。\n\n**【战斗胜利】**\n\n**+30 XP** ⚔️\n*影狼的野性力量融入了你的血脉*\n\n**+6 枚金币** 🪙\n*狼牙与兽皮在皮袋中叮当作响*\n\n首战告捷！30点经验充盈全身，距离升级只差最后一步——再斩获20点经验，你将迎来真正的蜕变！\n\n继续向前，英雄！"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_11",
+      "type": "beat_summary",
+      "content": "**Beat beat_11** (None)",
+      "timestamp": 1776211802.5768156,
+      "metadata": {
+        "beat_id": "beat_11",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 11] 你说道：\"返回酒馆休息\"\n\n场景中的细节在你眼前展开..."
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_12",
+      "type": "beat_summary",
+      "content": "**Beat beat_12** (None)",
+      "timestamp": 1776211802.6755493,
+      "metadata": {
+        "beat_id": "beat_12",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 12] 你说道：\"去市场逛逛\"\n\n场景中的细节在你眼前展开..."
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_2",
+      "type": "beat_summary",
+      "content": "**Beat beat_2** (None)",
+      "timestamp": 1776212244.366326,
+      "metadata": {
+        "beat_id": "beat_2",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 2] 你说道：\"找个位置坐下，观察周围的人\"\n\n空气中弥漫着神秘低沉的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_3",
+      "type": "beat_summary",
+      "content": "**Beat beat_3** (None)",
+      "timestamp": 1776212249.3636212,
+      "metadata": {
+        "beat_id": "beat_3",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776212254.3632548,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n影狼发出低沉的咆哮，挡住了你的去路——战斗不可避免！\n\n========================================\n⚔️  战斗开始！\n========================================\n敌人: 影狼 (怪物)\nHP: 12 | AC: 11\n\n你的状态: HP 22/22 | AC 13\n========================================\n可用动作: 攻击 / 防御 / 技能 / 道具 / 逃跑\n\n\n[回合 4] 你说道：\"向酒保打听镇子里的情况\"\n\n空气中弥漫着神秘低沉的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_5",
+      "type": "beat_summary",
+      "content": "**Beat beat_5** (None)",
+      "timestamp": 1776212285.2592533,
+      "metadata": {
+        "beat_id": "beat_5",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "# 战斗叙事\n\n剑锋划破酒馆浑浊的空气，你瞄准影狼侧颈劈下。灰狼发出凄厉的嗥叫，獠牙从你肩头擦过——但已经迟了。刀刃撕裂它颈侧的皮毛，鲜血喷溅在斑驳的木桌上，染红了散落的酒杯。\n\n影狼踉跄后退，前腿一软险些跪倒。它低吼着，伤口处血珠不断滚落，染红了地面上的锯末。\n\n**【命中】伤害：5 | 影狼：7/12 HP**\n\n影狼的利爪撕裂空气，带着凌厉的风声朝你的咽喉扑来！就在千钧一发之际，你侧身一闪，杯盏在桌上翻倒，麦酒洒了一地。那双泛着幽光的爪锋堪堪从你耳畔划过，带起一缕凉意。\n\n你的心跳如擂鼓，肾上腺素飙升。影狼扑空后踉跄了一步，猩红的眼睛里闪过一丝恼怒。\n\n**【反击未命中】** 伤害：0点 | 你状态：22/22 HP\n【战斗状态】\n  ⚔️ 冒险者: [██████████] 22/22 HP\n  🗡️ 影狼: [█████░░░░░] 7/12 HP\n\n  敌人状态: 影狼\n  HP: 7/12 | AC: 11"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_6",
+      "type": "beat_summary",
+      "content": "**Beat beat_6** (None)",
+      "timestamp": 1776212303.928535,
+      "metadata": {
+        "beat_id": "beat_6",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "银光划破空气，弯刀带着凌厉的破风声直取影狼咽喉。那头野兽本能地侧身闪避，却已力不从心——刀锋精准地切入它的肩颈连接处，鲜血喷涌而出，染红了脚下的木地板。影狼发出一声低沉的哀嚎，四肢颤抖着跪倒在地，琥珀色的眼眸逐渐失去光彩。\n\n**【命中！】**\n**伤害值：7**\n**影狼生命值：0/12 → 倒下！**\n\n⚔️ 影狼 倒下了！"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_7",
+      "type": "beat_summary",
+      "content": "**Beat beat_7** (None)",
+      "timestamp": 1776212304.0550268,
+      "metadata": {
+        "beat_id": "beat_7",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 7] 当前不在战斗中。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_8",
+      "type": "beat_summary",
+      "content": "**Beat beat_8** (None)",
+      "timestamp": 1776212304.1514862,
+      "metadata": {
+        "beat_id": "beat_8",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 8] 当前不在战斗中。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_9",
+      "type": "beat_summary",
+      "content": "**Beat beat_9** (None)",
+      "timestamp": 1776212304.2472477,
+      "metadata": {
+        "beat_id": "beat_9",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 9] 当前不在战斗中。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_10",
+      "type": "beat_summary",
+      "content": "**Beat beat_10** (None)",
+      "timestamp": 1776212304.3454041,
+      "metadata": {
+        "beat_id": "beat_10",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 10] 当前不在战斗中。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_10",
+      "type": "beat_summary",
+      "content": "**Beat beat_10** (None)",
+      "timestamp": 1776212304.4433472,
+      "metadata": {
+        "beat_id": "beat_10",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "酒馆内尘埃缓缓落定，烛火在微风中轻轻摇曳。刚才激战的痕迹清晰可见——倾倒的桌椅、碎裂的酒杯、墙上的刀痕。\n\n角落里倒着一动不动的身影，再无威胁。你俯身查看，从那人身上摸到几枚沉甸甸的金币和一张折叠的羊皮纸。空气中弥漫着血腥与酒香混杂的气息，这是属于胜者的片刻宁静。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_10",
+      "type": "beat_summary",
+      "content": "**Beat beat_10** (None)",
+      "timestamp": 1776212304.5546372,
+      "metadata": {
+        "beat_id": "beat_10",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "影狼倒下的瞬间，它的灵魂化为点点星光，没入你的胸膛。30点经验在你体内翻涌，12枚金币叮当作响落入钱袋。【<font color=\"#1E90FF\">锋利狼牙</font>】在血泊中闪烁寒芒，那锐利的弧度令人心安。再积累20点经验，你便能迎来新的蜕变——继续向前，荣耀在前方等候！"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_11",
+      "type": "beat_summary",
+      "content": "**Beat beat_11** (None)",
+      "timestamp": 1776212304.6682527,
+      "metadata": {
+        "beat_id": "beat_11",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 森林\n========================================\n\n这里是一个森林类型的地点,玩家正在寻找一个森林\n\n🌤️ 森林中，暮色四合，雾气中带着凉意，远处溪水流淌，雨后森林的清新，危机四伏。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 11] 你说道：\"去镇子外面的森林冒险\"\n\n空气中弥漫着阴森诡异的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_12",
+      "type": "beat_summary",
+      "content": "**Beat beat_12** (None)",
+      "timestamp": 1776212304.7746723,
+      "metadata": {
+        "beat_id": "beat_12",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 12] 你说道：\"在森林里四处搜索\"\n\n空气中弥漫着阴森诡异的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_13",
+      "type": "beat_summary",
+      "content": "**Beat beat_13** (None)",
+      "timestamp": 1776212304.8596625,
+      "metadata": {
+        "beat_id": "beat_13",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n==================================================\n📊 回合 13  |  📍 森林  |  🎮 探索模式\n--------------------------------------------------\n❤️  HP: 22/22  🛡️ AC: 12  ⚔️ Lv.1\n🌟 XP: 30  🪙 Gold: 22  🎒 物品: 3 件\n🧙 角色: 冒险者  人类 战士\n   近来获得: 生锈长剑, 治疗药水, 锋利狼牙\n=================================================="
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_14",
+      "type": "beat_summary",
+      "content": "**Beat beat_14** (None)",
+      "timestamp": 1776212304.9667516,
+      "metadata": {
+        "beat_id": "beat_14",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 14] 你说道：\"返回月叶镇\"\n\n空气中弥漫着阴森诡异的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_15",
+      "type": "beat_summary",
+      "content": "**Beat beat_15** (None)",
+      "timestamp": 1776212309.9808612,
+      "metadata": {
+        "beat_id": "beat_15",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 15] 你说道：\"找个旅店休息一下\"\n\n空气中弥漫着阴森诡异的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_16",
+      "type": "beat_summary",
+      "content": "**Beat beat_16** (None)",
+      "timestamp": 1776212314.9979286,
+      "metadata": {
+        "beat_id": "beat_16",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 16] 你说道：\"找镇子里看起来最重要的人深入聊聊\"\n\n空气中弥漫着充满生机的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_2",
+      "type": "beat_summary",
+      "content": "**Beat beat_2** (None)",
+      "timestamp": 1776215627.0716941,
+      "metadata": {
+        "beat_id": "beat_2",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n[NPC] 一个身影回应道：\"有什么事？\"\n\n\n\n影狼发出低沉的咆哮，挡住了你的去路——战斗不可避免！\n\n========================================\n⚔️  战斗开始！\n========================================\n敌人: 影狼 (怪物)\nHP: 12 | AC: 11\n\n你的状态: HP 22/22 | AC 13\n========================================\n可用动作: 攻击 / 防御 / 技能 / 道具 / 逃跑\n\n\n[回合 2] 你说道：\"和镇子里的人打招呼\"\n\n场景中的细节在你眼前展开..."
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_3",
+      "type": "beat_summary",
+      "content": "**Beat beat_3** (None)",
+      "timestamp": 1776215639.419116,
+      "metadata": {
+        "beat_id": "beat_3",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "你猛地向前踏出一步，剑锋划破空气中弥漫的酒气，直取影狼的咽喉。影狼试图侧身闪避，但你的剑刃比它的动作更快——金属切入皮肉的钝响传来，一蓬暗红的血珠溅洒在斑驳的木地板上，渗入缝隙。\n\n影狼发出一声低沉的呜咽，黑色的皮毛被鲜血染红了一侧，它踉跄后退两步，前爪在地面刨出浅浅的痕迹，兽瞳中的凶光微微黯淡了几分，却仍死死盯着你。\n\n**命中！造成5点伤害。影狼当前HP：7/12。**\n\n影狼的伤口仍在滴血，但它眼中闪过狡黠的光芒。你的剑锋还未收回，它已猛然扭身，利爪如刃般横扫而来！\n\n“嗬——！”\n\n撕裂般的疼痛划过你的肋部，鲜血瞬间染红了衣襟。你踉跄后退半步，撞翻了身后的木椅，酒杯碎裂一地。\n\n【命中！ 伤害: 3 | HP: 22 → 19】\n【战斗状态】\n  ⚔️ 冒险者: [████████░░] 19/22 HP\n  🗡️ 影狼: [█████░░░░░] 7/12 HP\n\n  敌人状态: 影狼\n  HP: 7/12 | AC: 11"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776215639.5282261,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "# 战斗叙事\n\n你猛地挥剑斩向影狼，剑锋撕裂空气发出尖锐的破风声。然而影狼的身形诡异地一扭，那双幽绿的眸子闪过狡黠的光芒。你的剑锋仅差毫厘地从它油亮的皮毛边缘擦过，卷起几缕黑色毛发。影狼趁机向后跃开，落地时前爪在木质地板上刻出深深的抓痕，碎屑飞溅。它回头冲你咧开獠牙，发出低沉的咆哮，仿佛在嘲笑着你的失手。\n\n---\n\n**【攻击结果】**\n🎲 命中：未命中\n⚔️ 伤害：0点\n🐺 影狼：7/12 HP\n\n# 战斗叙事 - 回合4\n\n影狼的利爪划破空气，呼啸着朝你的咽喉抓来！你本能地侧身闪避，肩膀擦着那漆黑的爪尖堪堪掠过。一阵寒意从颈侧掠过，激起一层鸡皮疙瘩。\n\n影狼扑空的身形在你面前一晃，它落地时发出一声低沉的咆哮，红色的眼眸中满是不甘。\n\n---\n\n**⚔️ 反击结果：影狼 反击 未命中！**\n\n**📉 伤害：0点**\n\n**🩸 你当前HP：19/22**\n【战斗状态】\n  ⚔️ 冒险者: [████████░░] 19/22 HP\n  🗡️ 影狼: [█████░░░░░] 7/12 HP\n\n  敌人状态: 影狼\n  HP: 7/12 | AC: 11"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_5",
+      "type": "beat_summary",
+      "content": "**Beat beat_5** (None)",
+      "timestamp": 1776215670.4534929,
+      "metadata": {
+        "beat_id": "beat_5",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "刀锋划破空气中弥漫的酒气，精准地切入影狼侧腹。你感受到金属撕裂血肉的阻力，紧接着是滚烫的血液沿着刀身涌出。影狼发出一声凄厉的哀嚎，它那伤痕累累的身躯剧烈颤抖，四肢如同风中枯枝般颤抖不止。它试图挣扎，却发现四肢已完全使不上力。灰暗的皮毛上满是血污与尘土，曾经凶狠的瞳孔逐渐失去焦距。伴随着沉重的倒地声，这头野兽终于瘫倒在酒馆的泥地上，再无声息。\n\n【命中！造成7点伤害。影狼：0/12 HP，倒下。】\n\n⚔️ 影狼 倒下了！"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_6",
+      "type": "beat_summary",
+      "content": "**Beat beat_6** (None)",
+      "timestamp": 1776215670.6064694,
+      "metadata": {
+        "beat_id": "beat_6",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 6] 当前不在战斗中。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_7",
+      "type": "beat_summary",
+      "content": "**Beat beat_7** (None)",
+      "timestamp": 1776215670.7141607,
+      "metadata": {
+        "beat_id": "beat_7",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 7] 当前不在战斗中。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_8",
+      "type": "beat_summary",
+      "content": "**Beat beat_8** (None)",
+      "timestamp": 1776215670.8505385,
+      "metadata": {
+        "beat_id": "beat_8",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 8] 当前不在战斗中。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_8",
+      "type": "beat_summary",
+      "content": "**Beat beat_8** (None)",
+      "timestamp": 1776215670.952836,
+      "metadata": {
+        "beat_id": "beat_8",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "硝烟散尽，酒馆内恢复了沉寂。桌椅东倒西歪，地上散落着碎裂的木杯和未干的酒渍。你弯腰拾起敌人掉落的钱袋，金属碰撞声清脆悦耳。角落的烛火摇曳不定，在墙壁上投下长长的影子。远处传来楼梯吱呀声——酒馆里的人开始探出头来张望。你深吸一口气，血腥味中混杂着陈年麦酒的气息，肾上腺素仍在血管中缓缓消退。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_8",
+      "type": "beat_summary",
+      "content": "**Beat beat_8** (None)",
+      "timestamp": 1776215671.047947,
+      "metadata": {
+        "beat_id": "beat_8",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "影狼的躯体在晨光中崩解，化为点点星尘。胜利的热血在血管中沸腾——11枚金币沉甸甸地落入钱袋，一枚【UNCOMMON锋利狼牙】闪烁着战利的光芒。30点XP的充实感充盈全身，距离升级只差20点。猎手，继续前进！"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_9",
+      "type": "beat_summary",
+      "content": "**Beat beat_9** (None)",
+      "timestamp": 1776215671.1453824,
+      "metadata": {
+        "beat_id": "beat_9",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 9] 你说道：\"我突然想跳舞\"\n\n场景中的细节在你眼前展开..."
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_10",
+      "type": "beat_summary",
+      "content": "**Beat beat_10** (None)",
+      "timestamp": 1776215671.24971,
+      "metadata": {
+        "beat_id": "beat_10",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 10] 你说道：\"我尝试翻越城墙\"\n\n场景中的细节在你眼前展开..."
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_11",
+      "type": "beat_summary",
+      "content": "**Beat beat_11** (None)",
+      "timestamp": 1776215671.6520336,
+      "metadata": {
+        "beat_id": "beat_11",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 11] 你说道：\"返回酒馆休息\"\n\n场景中的细节在你眼前展开..."
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_12",
+      "type": "beat_summary",
+      "content": "**Beat beat_12** (None)",
+      "timestamp": 1776215672.4554517,
+      "metadata": {
+        "beat_id": "beat_12",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 12] 你说道：\"去市场逛逛\"\n\n场景中的细节在你眼前展开..."
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_2",
+      "type": "beat_summary",
+      "content": "**Beat beat_2** (None)",
+      "timestamp": 1776217801.1645343,
+      "metadata": {
+        "beat_id": "beat_2",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_2",
+      "type": "beat_summary",
+      "content": "**Beat beat_2** (None)",
+      "timestamp": 1776217899.1701596,
+      "metadata": {
+        "beat_id": "beat_2",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_2",
+      "type": "beat_summary",
+      "content": "**Beat beat_2** (None)",
+      "timestamp": 1776217986.4932194,
+      "metadata": {
+        "beat_id": "beat_2",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n这里没有这个人...也许你可以描述得更具体一些？\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_2",
+      "type": "beat_summary",
+      "content": "**Beat beat_2** (None)",
+      "timestamp": 1776228873.4634664,
+      "metadata": {
+        "beat_id": "beat_2",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 2] 你说道：\"找个位置坐下，观察周围的人\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_3",
+      "type": "beat_summary",
+      "content": "**Beat beat_3** (None)",
+      "timestamp": 1776228878.479496,
+      "metadata": {
+        "beat_id": "beat_3",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n你的攻击激怒了影狼，它转身迎战，眼中满是杀意！\n\n========================================\n⚔️  战斗开始！\n========================================\n敌人: 影狼 (怪物)\nHP: 12 | AC: 11\n\n你的状态: HP 22/22 | AC 13\n========================================\n可用动作: 攻击 / 防御 / 技能 / 道具 / 逃跑\n\n\n[回合 3] 你说道：\"向酒保打听镇子里的情况\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776228898.2183936,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 4][你的攻击] 你猛烈地砍向影狼！\n  🎲 攻击投掷: 22 vs AC 11 → 命中！\n  💥 造成 6 点伤害！ 影狼 鲜血飞溅。\n\n影狼低吼一声，身形猛然一拧，漆黑的利爪撕裂空气朝你胸口撕来。你本能地向后撤步，脚跟绊翻了身后摇晃的木桌，瓶罐哗啦滚落一地。狼爪擦着你的衣襟掠过，劲风刮得你肋骨生疼。你侧身拧腰堪堪避开了这致命一击，手臂却被狼爪划出一道浅浅的血痕。\n\n**【闪避】** 攻击未命中 | 伤害: 0 | 状态: 良好 (22/22 HP)\n【战斗状态】\n  ⚔️ 冒险者: [██████████] 22/22 HP\n  🗡️ 影狼: [█████░░░░░] 6/12 HP\n\n  敌人状态: 影狼\n  HP: 6/12 | AC: 11"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_5",
+      "type": "beat_summary",
+      "content": "**Beat beat_5** (None)",
+      "timestamp": 1776228898.3389199,
+      "metadata": {
+        "beat_id": "beat_5",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 5][你的攻击] 你狠狠击中影狼，被敏捷地躲开！\n  🎲 攻击投掷: 3 vs AC 11 → 未命中\n\n[回合 5][影狼的反击] 影狼发动猛烈攻势你，被敏捷地躲开！\n  🎲 攻击投掷: 10 vs AC 13 → 未命中\n【战斗状态】\n  ⚔️ 冒险者: [██████████] 22/22 HP\n  🗡️ 影狼: [█████░░░░░] 6/12 HP\n\n  敌人状态: 影狼\n  HP: 6/12 | AC: 11"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_6",
+      "type": "beat_summary",
+      "content": "**Beat beat_6** (None)",
+      "timestamp": 1776228931.5415964,
+      "metadata": {
+        "beat_id": "beat_6",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 6][你的攻击] 你挥刀斩向影狼！\n  🎲 攻击投掷: 19 vs AC 11 → 命中！\n  💥 造成 6 点伤害！ 影狼 愤怒地瞪着你。\n⚔️ 影狼 倒下了！\n\n⚔️ 影狼 倒下了！"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_6",
+      "type": "beat_summary",
+      "content": "**Beat beat_6** (None)",
+      "timestamp": 1776228931.6457283,
+      "metadata": {
+        "beat_id": "beat_6",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "硝烟散去，酒馆内一片狼藉。破碎的酒瓶散落一地，木桌上还残留着战斗的痕迹。环顾四周，刚才的敌人在角落留下了一个沉甸甸的钱袋。深吸一口气，绷紧的神经终于慢慢松弛下来。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_6",
+      "type": "beat_summary",
+      "content": "**Beat beat_6** (None)",
+      "timestamp": 1776228931.7435844,
+      "metadata": {
+        "beat_id": "beat_6",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "影狼倒下的瞬间，胜利的光芒笼罩着你！\n\n+30 XP——经验在血脉中涌动，力量悄然滋长（总计 30 XP）\n+11 枚金币——沉甸甸的收获在袋中叮当作响\n【COMMON】治疗药水——一抹淡白色光芒的瓶子在战利品中闪烁\n\n距离下一级仅差 20 XP！号角已响，荣耀在前，继续向前，勇士！"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_7",
+      "type": "beat_summary",
+      "content": "**Beat beat_7** (None)",
+      "timestamp": 1776228931.8409698,
+      "metadata": {
+        "beat_id": "beat_7",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 酒馆\n========================================\n\n这里是一个酒馆类型的地点，玩家正在寻找一个酒馆\n\n🌤️ 酒馆中，油灯忽明忽暗，微凉的夜风从门缝渗入，木柴燃烧的噼啪声，陈年麦酒香，慵懒惬意，慵懒惬意。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 7] 你说道：\"离开酒馆，去镇中心逛逛\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_8",
+      "type": "beat_summary",
+      "content": "**Beat beat_8** (None)",
+      "timestamp": 1776228931.936976,
+      "metadata": {
+        "beat_id": "beat_8",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n==================================================\n🏪 商店 - 月光杂货铺\n==================================================\n💰 你的金币: 21\n--------------------------------------------------\n  暂无商品\n--------------------------------------------------\n💡 输入「买 + 物品名」即可购买（如：买治疗药水）\n=================================================="
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_9",
+      "type": "beat_summary",
+      "content": "**Beat beat_9** (None)",
+      "timestamp": 1776228932.0340989,
+      "metadata": {
+        "beat_id": "beat_9",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 9] 你说道：\"向商人打听消息\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_10",
+      "type": "beat_summary",
+      "content": "**Beat beat_10** (None)",
+      "timestamp": 1776228932.1330993,
+      "metadata": {
+        "beat_id": "beat_10",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 10] 你说道：\"去铁匠铺看看\"\n\n空气中弥漫着慵懒惬意的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_11",
+      "type": "beat_summary",
+      "content": "**Beat beat_11** (None)",
+      "timestamp": 1776228932.2374673,
+      "metadata": {
+        "beat_id": "beat_11",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 森林\n========================================\n\n这里是一个森林类型的地点,玩家正在寻找一个森林\n\n🌤️ 森林中，磷火在黑暗中闪烁，清凉宜人，风吹过树梢的呼啸，腐叶的气息，危机四伏。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 11] 你说道：\"去镇子外面的森林冒险\"\n\n场景中的细节在你眼前展开..."
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_12",
+      "type": "beat_summary",
+      "content": "**Beat beat_12** (None)",
+      "timestamp": 1776228932.344107,
+      "metadata": {
+        "beat_id": "beat_12",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 12] 你说道：\"主动寻找敌人\"\n\n空气中弥漫着阴森诡异的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_13",
+      "type": "beat_summary",
+      "content": "**Beat beat_13** (None)",
+      "timestamp": 1776228932.4631479,
+      "metadata": {
+        "beat_id": "beat_13",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n==================================================\n📊 回合 13  |  📍 森林  |  🎮 探索模式\n--------------------------------------------------\n❤️  HP: 22/22  🛡️ AC: 12  ⚔️ Lv.1\n🌟 XP: 30  🪙 Gold: 21  🎒 物品: 3 件\n🧙 角色: 体验官  人类 战士\n   近来获得: 生锈长剑, 治疗药水, 治疗药水\n=================================================="
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_14",
+      "type": "beat_summary",
+      "content": "**Beat beat_14** (None)",
+      "timestamp": 1776228933.5908816,
+      "metadata": {
+        "beat_id": "beat_14",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 14] 你说道：\"查看背包\"\n\n空气中弥漫着危机四伏的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_15",
+      "type": "beat_summary",
+      "content": "**Beat beat_15** (None)",
+      "timestamp": 1776228938.6022902,
+      "metadata": {
+        "beat_id": "beat_15",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 15] 你说道：\"返回月叶镇\"\n\n空气中弥漫着神秘莫测的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_16",
+      "type": "beat_summary",
+      "content": "**Beat beat_16** (None)",
+      "timestamp": 1776228943.601831,
+      "metadata": {
+        "beat_id": "beat_16",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 16] 你说道：\"找个旅店休息一下\"\n\n空气中弥漫着阴森诡异的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_17",
+      "type": "beat_summary",
+      "content": "**Beat beat_17** (None)",
+      "timestamp": 1776228948.595886,
+      "metadata": {
+        "beat_id": "beat_17",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 17] 你说道：\"找镇子里看起来最重要的人深入聊聊\"\n\n空气中弥漫着阴森诡异的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_2",
+      "type": "beat_summary",
+      "content": "**Beat beat_2** (None)",
+      "timestamp": 1776228956.682994,
+      "metadata": {
+        "beat_id": "beat_2",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 2] 你说道：\"找个位置坐下，观察周围的人\"\n\n空气中弥漫着躁动不安的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_3",
+      "type": "beat_summary",
+      "content": "**Beat beat_3** (None)",
+      "timestamp": 1776228961.6906176,
+      "metadata": {
+        "beat_id": "beat_3",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n你的攻击激怒了影狼，它转身迎战，眼中满是杀意！\n\n========================================\n⚔️  战斗开始！\n========================================\n敌人: 影狼 (怪物)\nHP: 12 | AC: 11\n\n你的状态: HP 22/22 | AC 13\n========================================\n可用动作: 攻击 / 防御 / 技能 / 道具 / 逃跑\n\n\n[回合 3] 你说道：\"向酒保打听镇子里的情况\"\n\n空气中弥漫着躁动不安的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776229014.839316,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "剑刃划破污浊的空气，闪着寒光直取影狼的咽喉。然而那畜生比想象中更为狡猾——它的身影倏地向后一仰，灰白的皮毛擦着你的剑锋滑过，带起一缕冷风。你的剑重重劈在身后的木质酒桶上，木屑飞溅，橡木桶裂开一道深深的豁口，酒液汩汩流出。\n\n影狼借着你收剑的瞬间，发出低沉的嘶吼，琥珀色的眼瞳中满是嘲讽的凶光。\n\n**【命中/未命中】** 未命中！  \n**【造成伤害】** 0\n\n[回合 4][影狼的反击] 影狼挥爪抓来你，被敏捷地躲开！\n  🎲 攻击投掷: 10 vs AC 13 → 未命中\n【战斗状态】\n  ⚔️ 冒险者: [██████████] 22/22 HP\n  🗡️ 影狼: [██████████] 12/12 HP\n\n  敌人状态: 影狼\n  HP: 12/12 | AC: 11"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_2",
+      "type": "beat_summary",
+      "content": "**Beat beat_2** (None)",
+      "timestamp": 1776229319.4987988,
+      "metadata": {
+        "beat_id": "beat_2",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 2] 你说道：\"找个位置坐下，观察周围的人\"\n\n空气中弥漫着暗流涌动的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_3",
+      "type": "beat_summary",
+      "content": "**Beat beat_3** (None)",
+      "timestamp": 1776229327.5084012,
+      "metadata": {
+        "beat_id": "beat_3",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n影狼发出低沉的咆哮，挡住了你的去路——战斗不可避免！\n\n========================================\n⚔️  战斗开始！\n========================================\n敌人: 影狼 (怪物)\nHP: 12 | AC: 11\n\n你的状态: HP 22/22 | AC 13\n========================================\n可用动作: 攻击 / 防御 / 技能 / 道具 / 逃跑\n\n\n[回合 3] 你说道：\"向酒保打听镇子里的情况\"\n\n空气中弥漫着暗流涌动的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_4",
+      "type": "beat_summary",
+      "content": "**Beat beat_4** (None)",
+      "timestamp": 1776229337.6231987,
+      "metadata": {
+        "beat_id": "beat_4",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 4][你的攻击] 你突刺向影狼！\n  🎲 攻击投掷: 19 vs AC 11 → 命中！\n  💥 造成 8 点伤害！ 影狼 踉跄后退。\n\n[回合 4][影狼的反击] 影狼狠狠咬下你！\n  🎲 攻击投掷: 23 vs AC 13 → 命中！\n  💥 造成 8 点伤害！ 你 踉跄后退。\n【战斗状态】\n  ⚔️ 冒险者: [██████░░░░] 14/22 HP\n  🗡️ 影狼: [███░░░░░░░] 4/12 HP\n\n  敌人状态: 影狼\n  HP: 4/12 | AC: 11"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_5",
+      "type": "beat_summary",
+      "content": "**Beat beat_5** (None)",
+      "timestamp": 1776229347.5517943,
+      "metadata": {
+        "beat_id": "beat_5",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "你的剑锋划破空气，精准地切入影狼的侧颈。\n\n寒光一闪，刃口切入那层由暗影织成的皮毛。影狼发出一声低沉的呜咽，残破的身躯摇晃了两下，四肢再也支撑不住，沉重的躯体轰然倒向地面，溅起一片木屑。\n\n它那双幽暗的眼瞳中最后一丝凶光逐渐黯淡，化作一缕黑烟消散在空气里。\n\n【命中 | 伤害: 4 | 影狼倒下 | 战斗即将结束】\n\n⚔️ 影狼 倒下了！"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_5",
+      "type": "beat_summary",
+      "content": "**Beat beat_5** (None)",
+      "timestamp": 1776229347.6652467,
+      "metadata": {
+        "beat_id": "beat_5",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n⚔️ 战斗结束！你获得了胜利！\n\n你回到酒馆，周围恢复了平静..."
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_5",
+      "type": "beat_summary",
+      "content": "**Beat beat_5** (None)",
+      "timestamp": 1776229347.7743676,
+      "metadata": {
+        "beat_id": "beat_5",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n⚔️  战斗胜利！\n========================================\n🌟 经验值: +30 XP (共 30 XP)\n🪙 金币: +7 枚 (共 17 枚)\n\n📦 掉落物品: 狼皮、锋利狼牙\n========================================\n"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_6",
+      "type": "beat_summary",
+      "content": "**Beat beat_6** (None)",
+      "timestamp": 1776229360.0842474,
+      "metadata": {
+        "beat_id": "beat_6",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n【老马】嗯。\n\n\n[回合 6] 你说道：\"我试着和路边的石头说话\"\n\n空气中弥漫着暗流涌动的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_7",
+      "type": "beat_summary",
+      "content": "**Beat beat_7** (None)",
+      "timestamp": 1776229360.2210138,
+      "metadata": {
+        "beat_id": "beat_7",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 酒馆\n========================================\n\n这里是一个酒馆类型的地点，玩家正在寻找一个酒馆\n\n🌤️ 酒馆中，油灯忽明忽暗，炉火烘得人昏昏欲睡，，陈年麦酒香，神秘低沉，神秘低沉。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 7] 你说道：\"离开酒馆，去镇中心逛逛\"\n\n空气中弥漫着神秘低沉的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_8",
+      "type": "beat_summary",
+      "content": "**Beat beat_8** (None)",
+      "timestamp": 1776229367.5504148,
+      "metadata": {
+        "beat_id": "beat_8",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n==================================================\n🏪 商店 - 月光杂货铺\n==================================================\n💰 你的金币: 17\n--------------------------------------------------\n  暂无商品\n--------------------------------------------------\n💡 输入「买 + 物品名」即可购买（如：买治疗药水）\n=================================================="
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_9",
+      "type": "beat_summary",
+      "content": "**Beat beat_9** (None)",
+      "timestamp": 1776229375.553906,
+      "metadata": {
+        "beat_id": "beat_9",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 9] 你说道：\"向商人打听消息\"\n\n空气中弥漫着暗流涌动的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_10",
+      "type": "beat_summary",
+      "content": "**Beat beat_10** (None)",
+      "timestamp": 1776229383.5593548,
+      "metadata": {
+        "beat_id": "beat_10",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 10] 你说道：\"去铁匠铺看看\"\n\n空气中弥漫着暗流涌动的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_11",
+      "type": "beat_summary",
+      "content": "**Beat beat_11** (None)",
+      "timestamp": 1776229391.5682697,
+      "metadata": {
+        "beat_id": "beat_11",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n========================================\n📍 场景: 森林\n========================================\n\n这里是一个森林类型的地点,玩家正在寻找一个森林\n\n🌤️ 森林中，雾气中透出微光，雾气中带着凉意，风吹过树梢的呼啸，腐叶的气息，危机四伏。\n\n这里似乎没有人。\n\n这里看起来没有特别值得探索的东西。\n========================================\n\n\n[回合 11] 你说道：\"去镇子外面的森林冒险\"\n\n空气中弥漫着阴森诡异的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_12",
+      "type": "beat_summary",
+      "content": "**Beat beat_12** (None)",
+      "timestamp": 1776229399.575961,
+      "metadata": {
+        "beat_id": "beat_12",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "\n==================================================\n📊 回合 12  |  📍 森林  |  🎮 探索模式\n--------------------------------------------------\n❤️  HP: 14/22  🛡️ AC: 12  ⚔️ Lv.1\n🌟 XP: 30  🪙 Gold: 17  🎒 物品: 4 件\n🧙 角色: 体验官  人类 战士\n   近来获得: 生锈长剑, 治疗药水, 狼皮, 锋利狼牙\n=================================================="
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_13",
+      "type": "beat_summary",
+      "content": "**Beat beat_13** (None)",
+      "timestamp": 1776229407.576354,
+      "metadata": {
+        "beat_id": "beat_13",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 13] 你说道：\"查看背包\"\n\n空气中弥漫着阴森诡异的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_14",
+      "type": "beat_summary",
+      "content": "**Beat beat_14** (None)",
+      "timestamp": 1776229415.594383,
+      "metadata": {
+        "beat_id": "beat_14",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 14] 你说道：\"返回月叶镇\"\n\n空气中弥漫着阴森诡异的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_15",
+      "type": "beat_summary",
+      "content": "**Beat beat_15** (None)",
+      "timestamp": 1776229423.6129694,
+      "metadata": {
+        "beat_id": "beat_15",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 15] 你说道：\"找个旅店休息一下\"\n\n空气中弥漫着阴森诡异的气息。"
+      },
+      "relevance_score": 0.0
+    },
+    {
+      "id": "beat_beat_16",
+      "type": "beat_summary",
+      "content": "**Beat beat_16** (None)",
+      "timestamp": 1776229431.6110406,
+      "metadata": {
+        "beat_id": "beat_16",
+        "scene": null,
+        "player_action": "",
+        "key_events": [],
+        "npcs_involved": [],
+        "items_obtained": [],
+        "decisions": [],
+        "next_hooks": [],
+        "raw_content": "[回合 16] 你说道：\"找镇子里看起来最重要的人深入聊聊\"\n\n空气中弥漫着阴森诡异的气息。"
+      },
+      "relevance_score": 0.0
     }
   ],
   "character_relations": {},
-  "updated_at": 1775996393.6486027
+  "updated_at": 1776229431.6200652
 }
