@@ -479,18 +479,35 @@ class GameMaster:
                 npc_name = self._SCENE_PRIMARY_NPC.get(current_location, "酒馆老板")
             return {"action": None, "cmd_type": cmd_type, "params": {"npc_name": npc_name}}
 
-        # Step 2: 正则模式匹配
-        match = re.match(r"和(.+?)(说话|聊天|交谈|聊聊)", raw)
+        # Step 2: 正则模式匹配（中英文，支持「和」「跟」等介词）
+        # B005 fix Step 2a: 中文 NPC 命令（支持「和」「跟」介词）
+        # npc_talk: 说话/交谈；npc_chat: 聊天/聊聊
+        match = re.match(r"[和跟](.+?)(说话|交谈)", raw)
         if match:
             npc_name = match.group(1).strip()
-            intent = match.group(2)
-            cmd_type = "npc_talk" if intent in ("说话", "交谈") else "npc_chat"
-            return {"action": None, "cmd_type": cmd_type, "params": {"npc_name": npc_name}}
+            return {"action": None, "cmd_type": "npc_talk", "params": {"npc_name": npc_name}}
 
+        match = re.match(r"[和跟](.+?)聊天", raw)
+        if match:
+            npc_name = match.group(1).strip()
+            return {"action": None, "cmd_type": "npc_chat", "params": {"npc_name": npc_name}}
+
+        # B005 fix Step 2b: 保留原有「向...询问任务」模式
         match = re.match(r"向(.+?)询问任务|问(.+?)任务|询问(.+?)任务", raw)
         if match:
             npc_name = match.group(1) or match.group(2) or match.group(3)
             return {"action": None, "cmd_type": "npc_quest", "params": {"npc_name": npc_name.strip()}}
+
+        # B005 fix Step 2c: 英文 NPC 命令支持
+        en_match = re.match(r"(?:talk|speak|converse|greet)\s+(?:to|with)\s+(.+)$", low)
+        if en_match:
+            npc_name = en_match.group(1).strip()
+            return {"action": None, "cmd_type": "npc_talk", "params": {"npc_name": npc_name}}
+
+        en_match = re.match(r"chat\s+(?:with\s+)?(.+)$", low)
+        if en_match:
+            npc_name = en_match.group(1).strip()
+            return {"action": None, "cmd_type": "npc_chat", "params": {"npc_name": npc_name}}
 
         # Step 3: 回退到原有 LLM 解析
         return {"action": None, "cmd_type": None, "params": {"raw": raw}}
