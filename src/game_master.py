@@ -505,6 +505,10 @@ class GameMaster:
             "前往广场", "去广场", "进广场", "进入广场",
             "回村庄", "回绿叶村", "回村",
             "进入城镇", "去城镇", "前往城镇",
+            # B002 fix: 自然语言变体 - 出去/外面
+            "去外面", "去外面看看", "出去看看", "出去探索", "到外面看看",
+            "离开这里", "走出酒馆", "出酒馆门", "往外面走",
+            "去野外", "去外面逛逛", "走出 tavern",
         }
         if raw in LOCATION_COMMANDS:
             return True
@@ -514,6 +518,13 @@ class GameMaster:
         for verb in MOVE_VERBS:
             for loc in LOCATIONS:
                 if verb + loc in raw:
+                    return True
+        # B002 fix: 自然语言出去/外面类命令 → 也算场景切换
+        OUTSIDE_PATTERNS = ["外面", "出去", "野外", "户外"]
+        LEAVE_VERBS = ["去", "到", "往", "向", "出"]
+        for pattern in OUTSIDE_PATTERNS:
+            for verb in LEAVE_VERBS:
+                if verb + pattern in raw:
                     return True
         return False
 
@@ -1325,7 +1336,8 @@ class GameMaster:
             narrative_parts.append(scene_update)
 
         # 2. 检查是否有 NPC 对话
-        npc_response = await self._check_npc_interaction(player_text)
+        # B003 fix: 传递归一化结果，避免关键词检测层重复解析
+        npc_response = await self._check_npc_interaction(player_text, normalized=_norm)
         if npc_response:
             narrative_parts.append(npc_response)
 
@@ -2340,6 +2352,16 @@ class GameMaster:
                     if loc in text:
                         return await self._generate_scene(loc)
 
+        # B002 fix: 自然语言"去外面/出去"类命令 → 推导为进入森林（危险区域）
+        # 用于解决"和酒馆老板说话"等安全区任务全程无战斗的问题
+        OUTSIDE_PATTERNS = ["外面", "出去", "野外", "户外"]
+        LEAVE_VERBS = ["去", "到", "往", "向", "出", "离开"]
+        for pattern in OUTSIDE_PATTERNS:
+            for verb in LEAVE_VERBS:
+                if verb + pattern in text:
+                    # 自然语言离开安全区 → 进入森林
+                    return await self._generate_scene("森林")
+
         # 如果没有移动词，但有明确的"在X里"描述当前场景
         for loc in location_keywords:
             if f"在{loc}" in text or loc in text:
@@ -3286,8 +3308,22 @@ class GameMaster:
         else:
             return f"\n[回合 {turn}] 这里似乎没有人可以交谈。"
 
-    async def _check_npc_interaction(self, player_text: str) -> str | None:
-        """检查是否有 NPC 交互并生成 NPC 对话"""
+    async def _check_npc_interaction(self, player_text: str, normalized: dict | None = None) -> str | None:
+        """
+        检查是否有 NPC 交互并生成 NPC 对话。
+        B003 fix: 优先使用归一化层已提取的 cmd_type 和 npc_name，
+                  避免同一输入在不同阶段被不同处理。
+        """
+        # B003 fix: 如果已有归一化结果且包含 NPC 命令，直接路由
+        if normalized is not None:
+            cmd_type = normalized.get("cmd_type")
+            params = normalized.get("params", {})
+            npc_name_from_norm = params.get("npc_name")
+            if cmd_type in ("npc_talk", "npc_quest", "npc_chat") and npc_name_from_norm:
+                # 复用 _handle_npc_command 的逻辑，但传递归一化的 npc_name
+                # 直接构建上下文（利用懒生成机制）
+                return await self._handle_npc_command(cmd_type, params)
+
         # 扩展关键词：不仅包括动作词，还包括称呼/打招呼类
         npc_keywords = [
             # 动作词
@@ -3439,12 +3475,13 @@ class GameMaster:
     async def _build_npc_context(self, npc_name: str) -> dict | None:
         """
         构建 NPC 上下文。
+        B001 fix: NPC 不存在时自动懒生成，而非返回 None。
         
         Args:
             npc_name: NPC 名称
             
         Returns:
-            NPC 数据字典，如果未找到则返回 None
+            NPC 数据字典，如果未找到则尝试懒生成后返回
         """
         # 先从 active_npcs 中查找（name+role 作为 key）
         for npc_id, npc_data in self.active_npcs.items():
@@ -3463,7 +3500,42 @@ class GameMaster:
             if npc:
                 return npc.to_dict()
         
-        return None
+        # B001 fix: NPC 不存在时自动懒生成
+        # 根据场景类型确定 NPC role
+        scene_type = self.current_scene.get("type", "村庄") if self.current_scene else "村庄"
+        role_map = {
+            "酒馆": "merchant", "城镇": "villager", "村庄": "villager",
+            "森林": "mystic", "城堡": "guard", "洞穴": "criminal",
+            "广场": "merchant", "平原": "adventurer",
+        }
+        role = role_map.get(scene_type, "villager")
+        scene_desc = self.current_scene.get("description", "") if self.current_scene else ""
+
+        # 尝试懒生成 NPC
+        if self.npc_agent:
+            try:
+                npc = await self.npc_agent.generate_npc(
+                    role=role,
+                    requirements=f"玩家想要和{npc_name}对话",
+                    scene_context=scene_desc
+                )
+                # 注册到 active_npcs
+                self.active_npcs[npc.id] = npc.to_dict()
+                return npc.to_dict()
+            except Exception as e:
+                logger.warning(f"Lazy NPC generation failed for '{npc_name}': {e}")
+
+        # 兜底：从场景描述推断基础 NPC 上下文
+        # 构建一个基础 NPC 数据用于 fallback 回复
+        basic_npc = {
+            "id": f"npc_lazy_{npc_name}",
+            "name": npc_name,
+            "role": role,
+            "personality": "friendly",
+            "dialogue_style": "friendly",
+        }
+        self.active_npcs[f"npc_lazy_{npc_name}"] = basic_npc
+        return basic_npc
 
     async def _handle_npc_command(self, cmd_type: str, params: dict) -> str:
         """
